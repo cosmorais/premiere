@@ -8,58 +8,58 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 2 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV PG ",SPORTV 2 
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 3 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV PG ",SPORTV 3 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="FILMES",AMC SD 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",AMC SD 
 http://vipeiptv.com:25461/marco21/21marco/856080
 
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier club 1
+#EXTINF:-1 group-title="PREMIRERE ",Premier club 1
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 2 
+#EXTINF:-2 group-title="PREMIRERE ",PREMIRERE 2 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
 
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 3 
+#EXTINF:-3 group-title="PREMIRERE ",PREMIRERE 3 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
 
 
-#EXTINF:-4 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 4 
+#EXTINF:-4 group-title="PREMIRERE ",PREMIRERE 4 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 5 
+#EXTINF:-5 group-title="PREMIRERE ",PREMIRERE 5 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
 
 
-#EXTINF:-6 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 6 
+#EXTINF:-6 group-title="PREMIRERE ",PREMIRERE 6 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 7 mmmm
+#EXTINF:-7 group-title="PREMIRERE ",PREMIRERE 7 mmmm
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
 
-#EXTINF:-8 tvg-id="Ae.br" tvg-name="zodiaco" group-title="PREMIRERE ",PREMIRERE 8 mmm
+#EXTINF:-8 group-title="PREMIRERE ",PREMIRERE 8 mmm
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
