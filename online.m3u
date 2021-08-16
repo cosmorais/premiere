@@ -7,12 +7,12 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV PG ",SPORTV 2 
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV PG ",SPORTV 3 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
