@@ -7,6 +7,19 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv 3
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",AMC SD mm
 http://vipeiptv.com:25461/marco21/21marco/856080
