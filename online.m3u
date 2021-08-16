@@ -1,22 +1,17 @@
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv 1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv  1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
 
 
