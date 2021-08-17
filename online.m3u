@@ -55,12 +55,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="canais" group-title="DOCUMENTARIOS", Animal Planet
-http://vipeiptv.com:25461/marco21/21marco/856283
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",AMC SD 
-http://vipeiptv.com:25461/marco21/21marco/856080
-
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="Aberto",Globo RJ
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
@@ -103,7 +97,11 @@ http://vipeiptv.com:25461/marco21/21marco/931379
 
 
 
+#EXTINF:-7 tvg-id="Ae.br" tvg-name="canais" group-title="DOCUMENTARIOS", Animal Planet
+http://vipeiptv.com:25461/marco21/21marco/856283
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",AMC SD 
+http://vipeiptv.com:25461/marco21/21marco/856080
 
 
 
