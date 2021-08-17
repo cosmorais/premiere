@@ -8,6 +8,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
 
+
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",SPORTV 2 
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
@@ -17,9 +18,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",AMC SD 
-http://vipeiptv.com:25461/marco21/21marco/856080
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="canais" group-title="PREMIRERE",Premier club  1
@@ -55,6 +53,56 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 #EXTINF:-7 tvg-id="Ae.br" tvg-name="canais" group-title="PREMIRERE", 7
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+
+#EXTINF:-7 tvg-id="Ae.br" tvg-name="canais" group-title="DOCUMENTARIOS", Animal Planet
+http://vipeiptv.com:25461/marco21/21marco/856283
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",AMC SD 
+http://vipeiptv.com:25461/marco21/21marco/856080
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="Aberto",Globo RJ
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_500/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_350/index.m3u8
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="Aberto",RECORD RIO
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="SPORTE",fox sports
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="SPORTE",ESPN
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="FILMES",CINEMAX HD
+http://vipeiptv.com:25461/marco21/21marco/856095
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="SPORTE",COMBATE SD
+http://vipeiptv.com:25461/marco21/21marco/856187
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="Animes",zodiaco 24 horas
+http://vipeiptv.com:25461/marco21/21marco/931379
+
+
+
 
 
 
