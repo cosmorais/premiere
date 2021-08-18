@@ -105,6 +105,41 @@ http://vipeiptv.com:25461/marco21/21marco/856080
 
 
 
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
+http://vipeiptv.com:25461/marco21/21marco/856133
+
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX SD ALT
+http://vipeiptv.com:25461/marco21/21marco/856093
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://vipeiptv.com:25461/marco21/21marco/856010
+
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
+http://vipeiptv.com:25461/marco21/21marco/856177
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
+http://vipeiptv.com:25461/marco21/21marco/856119
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUB HD ALTERNATIVO 1" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUB HD ALTERNATIVO 1
+http://vipeiptv.com:25461/marco21/21marco/931092
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="SPORT 1 ALTERNATIVO 1" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTE",SPORT 1 ALTERNATIVO 1
+http://vipeiptv.com:25461/marco21/21marco/931093
+
+
+
+
+
+
+
+
+
+
+
 
 
 
