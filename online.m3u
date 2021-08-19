@@ -63,6 +63,13 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_350/index.m3u8
 
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News HD+
+http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16727
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",tv senado sd PG
+http://cdnrede.com:80/joao6017/6017joao/4953
+
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="FILMES" group-title="Aberto",RECORD RIO
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
@@ -132,7 +139,81 @@ http://vipeiptv.com:25461/marco21/21marco/931093
 
 
 
-
+#EXTINF:-1 cameras
+http://187.19.219.52:1935/live/001.stream/playlist.m3u8
+http://187.19.219.52:1935/live/002.stream/playlist.m3u8
+http://187.19.219.52:1935/live/003.stream/playlist.m3u8
+http://187.19.219.52:1935/live/004.stream/playlist.m3u8
+http://187.19.219.52:1935/live/005.stream/playlist.m3u8
+http://187.19.219.52:1935/live/006.stream/playlist.m3u8
+http://187.19.219.52:1935/live/007.stream/playlist.m3u8
+http://187.19.219.52:1935/live/008.stream/playlist.m3u8
+http://187.19.219.52:1935/live/009.stream/playlist.m3u8
+http://187.19.219.52:1935/live/010.stream/playlist.m3u8
+http://187.19.219.52:1935/live/011.stream/playlist.m3u8
+http://187.19.219.52:1935/live/012.stream/playlist.m3u8
+http://187.19.219.52:1935/live/013.stream/playlist.m3u8
+http://187.19.219.52:1935/live/014.stream/playlist.m3u8
+http://187.19.219.52:1935/live/015.stream/playlist.m3u8
+http://187.19.219.52:1935/live/016.stream/playlist.m3u8
+http://187.19.219.52:1935/live/017.stream/playlist.m3u8
+http://187.19.219.52:1935/live/018.stream/playlist.m3u8
+http://187.19.219.52:1935/live/019.stream/playlist.m3u8
+http://187.19.219.52:1935/live/020.stream/playlist.m3u8
+http://187.19.219.52:1935/live/021.stream/playlist.m3u8
+http://187.19.219.52:1935/live/022.stream/playlist.m3u8
+http://187.19.219.52:1935/live/023.stream/playlist.m3u8
+http://187.19.219.52:1935/live/024.stream/playlist.m3u8
+http://187.19.219.52:1935/live/025.stream/playlist.m3u8
+http://187.19.219.52:1935/live/026.stream/playlist.m3u8
+http://187.19.219.52:1935/live/027.stream/playlist.m3u8
+http://187.19.219.52:1935/live/028.stream/playlist.m3u8
+http://187.19.219.52:1935/live/029.stream/playlist.m3u8
+http://187.19.219.52:1935/live/030.stream/playlist.m3u8
+http://187.19.219.52:1935/live/031.stream/playlist.m3u8
+http://187.19.219.52:1935/live/032.stream/playlist.m3u8
+http://187.19.219.52:1935/live/033.stream/playlist.m3u8
+http://187.19.219.52:1935/live/034.stream/playlist.m3u8
+http://187.19.219.52:1935/live/035.stream/playlist.m3u8
+http://187.19.219.52:1935/live/036.stream/playlist.m3u8
+http://187.19.219.52:1935/live/037.stream/playlist.m3u8
+http://187.19.219.52:1935/live/038.stream/playlist.m3u8
+http://187.19.219.52:1935/live/039.stream/playlist.m3u8
+http://187.19.219.52:1935/live/031.stream/playlist.m3u8
+http://187.19.219.52:1935/live/040.stream/playlist.m3u8
+http://187.19.219.52:1935/live/041.stream/playlist.m3u8
+http://187.19.219.52:1935/live/042.stream/playlist.m3u8
+http://187.19.219.52:1935/live/043.stream/playlist.m3u8
+http://187.19.219.52:1935/live/044.stream/playlist.m3u8
+http://187.19.219.52:1935/live/045.stream/playlist.m3u8
+http://187.19.219.52:1935/live/046.stream/playlist.m3u8
+http://187.19.219.52:1935/live/047.stream/playlist.m3u8
+http://187.19.219.52:1935/live/048.stream/playlist.m3u8
+http://187.19.219.52:1935/live/049.stream/playlist.m3u8
+http://187.19.219.52:1935/live/050.stream/playlist.m3u8
+http://187.19.219.52:1935/live/051.stream/playlist.m3u8
+http://187.19.219.52:1935/live/052.stream/playlist.m3u8
+http://187.19.219.52:1935/live/053.stream/playlist.m3u8
+http://187.19.219.52:1935/live/054.stream/playlist.m3u8
+http://187.19.219.52:1935/live/055.stream/playlist.m3u8
+http://187.19.219.52:1935/live/056.stream/playlist.m3u8
+http://187.19.219.52:1935/live/057.stream/playlist.m3u8
+http://187.19.219.52:1935/live/058.stream/playlist.m3u8
+http://187.19.219.52:1935/live/059.stream/playlist.m3u8
+http://187.19.219.52:1935/live/060.stream/playlist.m3u8
+http://187.19.219.52:1935/live/061.stream/playlist.m3u8
+http://187.19.219.52:1935/live/062.stream/playlist.m3u8
+http://187.19.219.52:1935/live/063.stream/playlist.m3u8
+http://187.19.219.52:1935/live/064.stream/playlist.m3u8
+http://187.19.219.52:1935/live/065.stream/playlist.m3u8
+http://187.19.219.52:1935/live/066.stream/playlist.m3u8
+http://187.19.219.52:1935/live/067.stream/playlist.m3u8
+http://187.19.219.52:1935/live/068.stream/playlist.m3u8
+http://187.19.219.52:1935/live/069.stream/playlist.m3u8
+http://187.19.219.52:1935/live/070.stream/playlist.m3u8
+http://187.19.219.52:1935/live/071.stream/playlist.m3u8
+http://187.19.219.52:1935/live/072.stream/playlist.m3u8
+http://187.19.219.52:1935/live/073.stream/playlist.m3u8
 
 
 
