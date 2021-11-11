@@ -16,6 +16,10 @@ http://main.cteam.me:80/789789/789789/881591
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
 http://main.cteam.me:80/789789/789789/857104
 
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC HD 2
+http://asbx.xyz:80/240892/240892/62657
+
+
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX SD
 http://main.cteam.me:80/789789/789789/857119
