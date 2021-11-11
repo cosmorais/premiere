@@ -10,20 +10,8 @@ http://main.cteam.me:80/789789/789789/886979
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RIO - RJ SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RIO - RJ SD
 http://main.cteam.me:80/789789/789789/881591
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
-http://main.cteam.me:80/789789/789789/857104
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC HD 2
-http://asbx.xyz:80/240892/240892/62655
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="|BR| AMC HD3" tvg-logo="http://185.165.243.195/logo_plus/UK/AMC.png" group-title="AM | BRAZIL",|BR| AMC HD3
-http://new.dtv21.org:2082/Achrafplt_914689/Bktb63Qy/28887
-
+#EXTINF:-1,AMC HD
+http://show.servidor.tv:8080/michel12/12michel/1498
 
 
 
