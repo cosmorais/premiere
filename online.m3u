@@ -1,14 +1,14 @@
 
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD [P]" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP SD [P]
-http://main.cteam.me:80/789789/789789/881573
+#EXTINF:-1,Band SP HD
+http://show.servidor.tv:8080/michel12/12michel/489
 
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ SD
-http://main.cteam.me:80/789789/789789/886979
+#EXTINF:-1,Globo RJ HD
+http://show.servidor.tv:8080/michel12/12michel/1504
 
 
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RIO - RJ SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RIO - RJ SD
-http://main.cteam.me:80/789789/789789/881591
+#EXTINF:-1,Record RJ HD
+http://show.servidor.tv:8080/michel12/12michel/29780
 
 #EXTINF:-1,AMC HD
 http://show.servidor.tv:8080/michel12/12michel/1498
@@ -18,82 +18,412 @@ http://show.servidor.tv:8080/michel12/12michel/1498
 
 
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX SD
-http://main.cteam.me:80/789789/789789/857119
+#EXTINF:-1,Cinemax HD
+http://show.servidor.tv:8080/michel12/12michel/1490
 
 
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://main.cteam.me:80/789789/789789/857214
+#EXTINF:-1,Telecine Pipoca HD
+http://show.servidor.tv:8080/michel12/12michel/1435
 
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE SD
-http://main.cteam.me:80/789789/789789/857203
+#EXTINF:-1,Space HD
+http://show.servidor.tv:8080/michel12/12michel/1445
 
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX SD
-http://main.cteam.me:80/789789/789789/857167
+#EXTINF:-1,Megapix HD
+http://show.servidor.tv:8080/michel12/12michel/1454
 
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL SD
-http://main.cteam.me:80/789789/789789/857241
-
-
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV SD
-http://main.cteam.me:80/789789/789789/857168
+#EXTINF:-1,Warner Channel HD
+http://show.servidor.tv:8080/michel12/12michel/1430
 
 
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA 13  CAM PRINCIPAL" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA 13  CAM PRINCIPAL
-http://main.cteam.me:80/789789/789789/876374
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 1" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 1
-http://main.cteam.me:80/789789/789789/878913
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 2" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 2
-http://main.cteam.me:80/789789/789789/878912
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 3" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 3
-http://main.cteam.me:80/789789/789789/878911
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 4" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 4
-http://main.cteam.me:80/789789/789789/878910
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 5" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 5
-http://main.cteam.me:80/789789/789789/878909
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 6" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 6
-http://main.cteam.me:80/789789/789789/878908
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 7" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 7
-http://main.cteam.me:80/789789/789789/878907
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 8" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 8
-http://main.cteam.me:80/789789/789789/878906
-
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD
-http://main.cteam.me:80/789789/789789/857204
+#EXTINF:-1,MTV HD
+http://show.servidor.tv:8080/michel12/12michel/1453
 
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-http://main.cteam.me:80/789789/789789/857205
+#EXTINF:-1,A Fazenda 13 HD 1
+http://show.servidor.tv:8080/michel12/12michel/77581
+#EXTINF:-1,A Fazenda 13 HD 2
+http://show.servidor.tv:8080/michel12/12michel/77580
+#EXTINF:-1,A Fazenda 13 HD 3
+http://show.servidor.tv:8080/michel12/12michel/77579
+#EXTINF:-1,A Fazenda 13 Cam 01
+http://show.servidor.tv:8080/michel12/12michel/77578
+#EXTINF:-1,A Fazenda 13 Cam 02
+http://show.servidor.tv:8080/michel12/12michel/77577
+#EXTINF:-1,A Fazenda 13 Cam 03
+http://show.servidor.tv:8080/michel12/12michel/77576
+#EXTINF:-1,A Fazenda 13 Cam 04
+http://show.servidor.tv:8080/michel12/12michel/77575
+#EXTINF:-1,A Fazenda 13 Cam 05
+http://show.servidor.tv:8080/michel12/12michel/77574
+#EXTINF:-1,A Fazenda 13 Cam 06
+http://show.servidor.tv:8080/michel12/12michel/77573
+#EXTINF:-1,A Fazenda 13 Cam 07
+http://show.servidor.tv:8080/michel12/12michel/77572
+#EXTINF:-1,A Fazenda 13 Cam 08
+http://show.servidor.tv:8080/michel12/12michel/77571
+
+#EXTINF:-1,SporTV HD
+http://show.servidor.tv:8080/michel12/12michel/1444
+
+#EXTINF:-1,SporTV 2 HD
+http://show.servidor.tv:8080/michel12/12michel/1443
+
+#EXTINF:-1,SporTV 3 HD
+http://show.servidor.tv:8080/michel12/12michel/1442
 
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-http://main.cteam.me:80/789789/789789/857206
+
+
+#EXTINF:-1,Premiere 2 HD
+http://show.servidor.tv:8080/michel12/12michel/1511
+
+#EXTINF:-1,Premiere 3 HD
+http://show.servidor.tv:8080/michel12/12michel/1510
+
+#EXTINF:-1,Premiere 4 HD
+http://show.servidor.tv:8080/michel12/12michel/1509
+
+#EXTINF:-1,Premiere 5 HD
+http://show.servidor.tv:8080/michel12/12michel/1508
+
+#EXTINF:-1,Premiere 6 HD
+http://show.servidor.tv:8080/michel12/12michel/1507
+
+#EXTINF:-1,Premiere 7 HD
+http://show.servidor.tv:8080/michel12/12michel/1506
+
+#EXTINF:-1,Premiere 8 HD
+http://show.servidor.tv:8080/michel12/12michel/63207
 
 
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD
-http://main.cteam.me:80/789789/789789/876264
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-http://main.cteam.me:80/789789/789789/876268
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-http://main.cteam.me:80/789789/789789/876272
-
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-http://main.cteam.me:80/789789/789789/876276
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-http://main.cteam.me:80/789789/789789/876280
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-http://main.cteam.me:80/789789/789789/876284
+#EXTINF:-1,xxx Sexy Hot HD
+http://show.servidor.tv:8080/michel12/12michel/49
+#EXTINF:-1,xxx Shemale 1 HD
+http://show.servidor.tv:8080/michel12/12michel/50674
+#EXTINF:-1,xxx Shemale 2 HD
+http://show.servidor.tv:8080/michel12/12michel/50675
+#EXTINF:-1,xxx Tiny4K 1 HD
+http://show.servidor.tv:8080/michel12/12michel/32611
+#EXTINF:-1,xxx Tiny4K 2 HD
+http://show.servidor.tv:8080/michel12/12michel/32610
+#EXTINF:-1,xxx Venus HD
+http://show.servidor.tv:8080/michel12/12michel/13617
 
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-http://main.cteam.me:80/789789/789789/876288
+
+
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E01
+http://show.servidor.tv:8080/series/michel12/12michel/33898.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E02
+http://show.servidor.tv:8080/series/michel12/12michel/33899.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E03
+http://show.servidor.tv:8080/series/michel12/12michel/33900.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E04
+http://show.servidor.tv:8080/series/michel12/12michel/33901.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E05
+http://show.servidor.tv:8080/series/michel12/12michel/33902.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E06
+http://show.servidor.tv:8080/series/michel12/12michel/33903.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E07
+http://show.servidor.tv:8080/series/michel12/12michel/33904.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E08
+http://show.servidor.tv:8080/series/michel12/12michel/33905.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E09
+http://show.servidor.tv:8080/series/michel12/12michel/33906.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E10
+http://show.servidor.tv:8080/series/michel12/12michel/33907.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E11
+http://show.servidor.tv:8080/series/michel12/12michel/33908.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E12
+http://show.servidor.tv:8080/series/michel12/12michel/33909.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E13
+http://show.servidor.tv:8080/series/michel12/12michel/33910.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E14
+http://show.servidor.tv:8080/series/michel12/12michel/33911.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E15
+http://show.servidor.tv:8080/series/michel12/12michel/33912.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E16
+http://show.servidor.tv:8080/series/michel12/12michel/33913.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E17
+http://show.servidor.tv:8080/series/michel12/12michel/33914.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E18
+http://show.servidor.tv:8080/series/michel12/12michel/33915.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E19
+http://show.servidor.tv:8080/series/michel12/12michel/33916.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E20
+http://show.servidor.tv:8080/series/michel12/12michel/33917.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E21
+http://show.servidor.tv:8080/series/michel12/12michel/33918.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E22
+http://show.servidor.tv:8080/series/michel12/12michel/33919.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E23
+http://show.servidor.tv:8080/series/michel12/12michel/33920.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E24
+http://show.servidor.tv:8080/series/michel12/12michel/33921.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E25
+http://show.servidor.tv:8080/series/michel12/12michel/33922.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S01 E26
+http://show.servidor.tv:8080/series/michel12/12michel/33923.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E01
+http://show.servidor.tv:8080/series/michel12/12michel/33924.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E02
+http://show.servidor.tv:8080/series/michel12/12michel/33925.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E03
+http://show.servidor.tv:8080/series/michel12/12michel/33926.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E04
+http://show.servidor.tv:8080/series/michel12/12michel/33927.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E05
+http://show.servidor.tv:8080/series/michel12/12michel/33928.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E06
+http://show.servidor.tv:8080/series/michel12/12michel/33929.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E07
+http://show.servidor.tv:8080/series/michel12/12michel/33930.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E08
+http://show.servidor.tv:8080/series/michel12/12michel/33931.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E09
+http://show.servidor.tv:8080/series/michel12/12michel/33932.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E10
+http://show.servidor.tv:8080/series/michel12/12michel/33933.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E11
+http://show.servidor.tv:8080/series/michel12/12michel/33934.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E12
+http://show.servidor.tv:8080/series/michel12/12michel/33935.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E13
+http://show.servidor.tv:8080/series/michel12/12michel/33936.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E14
+http://show.servidor.tv:8080/series/michel12/12michel/33937.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E15
+http://show.servidor.tv:8080/series/michel12/12michel/33938.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E16
+http://show.servidor.tv:8080/series/michel12/12michel/33939.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E17
+http://show.servidor.tv:8080/series/michel12/12michel/33940.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E18
+http://show.servidor.tv:8080/series/michel12/12michel/33941.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E19
+http://show.servidor.tv:8080/series/michel12/12michel/33942.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E20
+http://show.servidor.tv:8080/series/michel12/12michel/33943.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E21
+http://show.servidor.tv:8080/series/michel12/12michel/33944.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E22
+http://show.servidor.tv:8080/series/michel12/12michel/33945.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E23
+http://show.servidor.tv:8080/series/michel12/12michel/33946.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E24
+http://show.servidor.tv:8080/series/michel12/12michel/33947.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S02 E25
+http://show.servidor.tv:8080/series/michel12/12michel/33948.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E01
+http://show.servidor.tv:8080/series/michel12/12michel/33949.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E02
+http://show.servidor.tv:8080/series/michel12/12michel/33950.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E03
+http://show.servidor.tv:8080/series/michel12/12michel/33951.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E04
+http://show.servidor.tv:8080/series/michel12/12michel/33952.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E05
+http://show.servidor.tv:8080/series/michel12/12michel/33953.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco - The Lost Canvas: A Saga de Hades S03 E06
+http://show.servidor.tv:8080/series/michel12/12michel/33954.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E01
+http://show.servidor.tv:8080/series/michel12/12michel/33955.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E02
+http://show.servidor.tv:8080/series/michel12/12michel/33956.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E03
+http://show.servidor.tv:8080/series/michel12/12michel/33957.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E04
+http://show.servidor.tv:8080/series/michel12/12michel/33958.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E05
+http://show.servidor.tv:8080/series/michel12/12michel/33959.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E06
+http://show.servidor.tv:8080/series/michel12/12michel/33960.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E07
+http://show.servidor.tv:8080/series/michel12/12michel/33961.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E08
+http://show.servidor.tv:8080/series/michel12/12michel/33962.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E09
+http://show.servidor.tv:8080/series/michel12/12michel/33963.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E10
+http://show.servidor.tv:8080/series/michel12/12michel/33964.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E11
+http://show.servidor.tv:8080/series/michel12/12michel/33965.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E12
+http://show.servidor.tv:8080/series/michel12/12michel/33966.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E13
+http://show.servidor.tv:8080/series/michel12/12michel/33967.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E14
+http://show.servidor.tv:8080/series/michel12/12michel/33968.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E15
+http://show.servidor.tv:8080/series/michel12/12michel/33969.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E16
+http://show.servidor.tv:8080/series/michel12/12michel/33970.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E17
+http://show.servidor.tv:8080/series/michel12/12michel/33971.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E18
+http://show.servidor.tv:8080/series/michel12/12michel/33972.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E19
+http://show.servidor.tv:8080/series/michel12/12michel/33973.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E20
+http://show.servidor.tv:8080/series/michel12/12michel/33974.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E21
+http://show.servidor.tv:8080/series/michel12/12michel/33975.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E22
+http://show.servidor.tv:8080/series/michel12/12michel/33976.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E23
+http://show.servidor.tv:8080/series/michel12/12michel/33977.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E24
+http://show.servidor.tv:8080/series/michel12/12michel/33978.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E25
+http://show.servidor.tv:8080/series/michel12/12michel/33979.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E26
+http://show.servidor.tv:8080/series/michel12/12michel/33980.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E27
+http://show.servidor.tv:8080/series/michel12/12michel/33981.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E28
+http://show.servidor.tv:8080/series/michel12/12michel/33982.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E29
+http://show.servidor.tv:8080/series/michel12/12michel/33983.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E30
+http://show.servidor.tv:8080/series/michel12/12michel/33984.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E31
+http://show.servidor.tv:8080/series/michel12/12michel/33985.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E32
+http://show.servidor.tv:8080/series/michel12/12michel/33986.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E33
+http://show.servidor.tv:8080/series/michel12/12michel/33987.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E34
+http://show.servidor.tv:8080/series/michel12/12michel/33988.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E35
+http://show.servidor.tv:8080/series/michel12/12michel/33989.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E36
+http://show.servidor.tv:8080/series/michel12/12michel/33990.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E37
+http://show.servidor.tv:8080/series/michel12/12michel/33991.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E38
+http://show.servidor.tv:8080/series/michel12/12michel/33992.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E39
+http://show.servidor.tv:8080/series/michel12/12michel/33993.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E40
+http://show.servidor.tv:8080/series/michel12/12michel/33994.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E41
+http://show.servidor.tv:8080/series/michel12/12michel/33995.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E42
+http://show.servidor.tv:8080/series/michel12/12michel/33996.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E43
+http://show.servidor.tv:8080/series/michel12/12michel/33997.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E44
+http://show.servidor.tv:8080/series/michel12/12michel/33998.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E45
+http://show.servidor.tv:8080/series/michel12/12michel/33999.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E46
+http://show.servidor.tv:8080/series/michel12/12michel/34000.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E47
+http://show.servidor.tv:8080/series/michel12/12michel/34001.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E48
+http://show.servidor.tv:8080/series/michel12/12michel/34002.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E49
+http://show.servidor.tv:8080/series/michel12/12michel/34003.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E50
+http://show.servidor.tv:8080/series/michel12/12michel/34004.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E51
+http://show.servidor.tv:8080/series/michel12/12michel/34005.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E52
+http://show.servidor.tv:8080/series/michel12/12michel/34006.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E53
+http://show.servidor.tv:8080/series/michel12/12michel/34007.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E54
+http://show.servidor.tv:8080/series/michel12/12michel/34008.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E55
+http://show.servidor.tv:8080/series/michel12/12michel/34009.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E56
+http://show.servidor.tv:8080/series/michel12/12michel/34010.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E57
+http://show.servidor.tv:8080/series/michel12/12michel/34011.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E58
+http://show.servidor.tv:8080/series/michel12/12michel/34012.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E59
+http://show.servidor.tv:8080/series/michel12/12michel/34013.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E60
+http://show.servidor.tv:8080/series/michel12/12michel/34014.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E61
+http://show.servidor.tv:8080/series/michel12/12michel/34015.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E62
+http://show.servidor.tv:8080/series/michel12/12michel/34016.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E63
+http://show.servidor.tv:8080/series/michel12/12michel/34017.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E64
+http://show.servidor.tv:8080/series/michel12/12michel/34018.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E65
+http://show.servidor.tv:8080/series/michel12/12michel/34019.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E66
+http://show.servidor.tv:8080/series/michel12/12michel/34020.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E67
+http://show.servidor.tv:8080/series/michel12/12michel/34021.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E68
+http://show.servidor.tv:8080/series/michel12/12michel/34022.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E69
+http://show.servidor.tv:8080/series/michel12/12michel/34023.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E70
+http://show.servidor.tv:8080/series/michel12/12michel/34024.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E71
+http://show.servidor.tv:8080/series/michel12/12michel/34025.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E72
+http://show.servidor.tv:8080/series/michel12/12michel/34026.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E73
+http://show.servidor.tv:8080/series/michel12/12michel/34027.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E74
+http://show.servidor.tv:8080/series/michel12/12michel/34028.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E75
+http://show.servidor.tv:8080/series/michel12/12michel/34029.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E76
+http://show.servidor.tv:8080/series/michel12/12michel/34030.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E77
+http://show.servidor.tv:8080/series/michel12/12michel/34031.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E78
+http://show.servidor.tv:8080/series/michel12/12michel/34032.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E79
+http://show.servidor.tv:8080/series/michel12/12michel/34033.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E80
+http://show.servidor.tv:8080/series/michel12/12michel/34034.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E81
+http://show.servidor.tv:8080/series/michel12/12michel/34035.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E82
+http://show.servidor.tv:8080/series/michel12/12michel/34036.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E83
+http://show.servidor.tv:8080/series/michel12/12michel/34037.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E84
+http://show.servidor.tv:8080/series/michel12/12michel/34038.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E85
+http://show.servidor.tv:8080/series/michel12/12michel/34039.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E86
+http://show.servidor.tv:8080/series/michel12/12michel/34040.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E87
+http://show.servidor.tv:8080/series/michel12/12michel/34041.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E88
+http://show.servidor.tv:8080/series/michel12/12michel/34042.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E89
+http://show.servidor.tv:8080/series/michel12/12michel/34043.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E90
+http://show.servidor.tv:8080/series/michel12/12michel/34044.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E91
+http://show.servidor.tv:8080/series/michel12/12michel/34045.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E92
+http://show.servidor.tv:8080/series/michel12/12michel/34046.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E93
+http://show.servidor.tv:8080/series/michel12/12michel/34047.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E94
+http://show.servidor.tv:8080/series/michel12/12michel/34048.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E95
+http://show.servidor.tv:8080/series/michel12/12michel/34049.mp4
+#EXTINF:-1,Os Cavaleiros do Zodíaco: Ômega S01 E96
+http://show.servidor.tv:8080/series/michel12/12michel/34050.mp4
+
+
 
 
 
