@@ -14,10 +14,6 @@ http://show.servidor.tv:8080/michel12/12michel/29780
 http://show.servidor.tv:8080/michel12/12michel/1498
 
 
-
-
-
-
 #EXTINF:-1,Cinemax HD
 http://show.servidor.tv:8080/michel12/12michel/1490
 
@@ -114,6 +110,11 @@ http://show.servidor.tv:8080/michel12/12michel/32610
 http://show.servidor.tv:8080/michel12/12michel/13617
 
 
+#EXTINF:-1,Sportv
+http://212.224.98.210:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+
+
 
 #EXTINF:-1,HBO_Family
 http://212.102.60.40:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
@@ -123,67 +124,28 @@ http://212.102.60.40:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCn
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 
-
-#EXTINF:-1,AMC HD
-http://vipeiptv.com:25461/durvalino/10203040/856081
-
-
-
-#EXTINF:-1,AMC SD
-http://vipeiptv.com:25461/durvalino/10203040/856080
-
-
 #EXTINF:-1,Space_HD
 http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-#EXTINF:-1,Space SD
-http://vipeiptv.com:25461/durvalino/10203040/856133
 
 
 
 #EXTINF:-1,PIPOCAAAAA
 http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
-#EXTINF:-1,PIPOCA SD
-http://vipeiptv.com:25461/durvalino/10203040/856010
-
-
 
 #EXTINF:-1,Premiere_Clubes
 http://212.224.98.211:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-
+#EXTINF:-1,Premiere 2
 http://212.224.98.212:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
 
 #EXTINF:-1,Premiere 3
 http://212.224.98.212:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 
-
 #EXTINF:-1,Premiere 4
 http://212.224.98.212:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-
-
-#EXTINF:-1,Premiere_Clubes SD
-http://vipeiptv.com:25461/durvalino/10203040/856247
-
-#EXTINF:-1,Premiere 2
-http://vipeiptv.com:25461/durvalino/10203040/856253
-
-
-#EXTINF:-1,Premiere 3
-http://vipeiptv.com:25461/durvalino/10203040/856259
-
-#EXTINF:-1,Premiere 4
-http://vipeiptv.com:25461/durvalino/10203040/856265
-
-#EXTINF:-1,24H JASPION 
-http://vipeiptv.com:25461/durvalino/10203040/931414
-
-#EXTINF:-1,24H JASPION VIP
-http://vipeiptv.com:25461/durvalino/10203040/956531
-
-
 
 
 #EXTINF:-1 cameras
