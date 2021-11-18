@@ -111,86 +111,62 @@ http://show.servidor.tv:8080/michel12/12michel/13617
 
 
 
-#EXTINF:-1,Sportv
-http://212.224.98.210:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-
-
-#EXTINF:-1,Sportv 2
-http://212.224.98.210:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1,1
+http://187.19.219.52:1935/live/016.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,Sportv 3
-http://212.224.98.210:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1,1 2
+http://187.19.219.52:1935/live/021.stream/playlist.m3u8
+
+
+#EXTINF:-1,1 3
+http://187.19.219.52:1935/live/020.stream/playlist.m3u8
+
+
+#EXTINF:-1,4
+http://187.19.219.52:1935/live/019.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,5
+http://187.19.219.52:1935/live/018.stream/playlist.m3u8
 
 
-#EXTINF:-1,HBO_Family
-http://212.102.60.40:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1,6
+http://187.19.219.52:1935/live/017.stream/playlist.m3u8
+
+#EXTINF:-1,7
+http://187.19.219.52:1935/live/015.stream/playlist.m3u8
 
 
-#EXTINF:-1,AMC
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-
-#EXTINF:-1,Space_HD
-http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-
-#EXTINF:-1,Cinemax_HD
-http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1,8
+http://187.19.219.52:1935/live/014.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,PIPOCAAAAA
-http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1,9
+http://187.19.219.52:1935/live/013.stream/playlist.m3u8
+
+#EXTINF:-1,10
+http://187.19.219.52:1935/live/012.stream/playlist.m3u8
+
+#EXTINF:-1,11
+http://187.19.219.52:1935/live/002.stream/playlist.m3u8
 
 
-#EXTINF:-1,Premiere_Clubes
-http://212.224.98.211:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-http://212.224.98.211:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-
-
-#EXTINF:-1,Premiere 2
-http://212.224.98.212:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-http://212.224.98.211:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-
-#EXTINF:-1,Premiere 3
-http://212.224.98.212:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-http://212.224.98.211:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-#EXTINF:-1,Premiere 4
-http://212.224.98.212:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-http://212.224.98.211:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-
+#EXTINF:-1,12
+http://187.19.219.52:1935/live/011.stream/playlist.m3u8
 
 
 #EXTINF:-1 cameras
 http://187.19.219.52:1935/live/001.stream/playlist.m3u8
-http://187.19.219.52:1935/live/002.stream/playlist.m3u8
-http://187.19.219.52:1935/live/003.stream/playlist.m3u8
-http://187.19.219.52:1935/live/004.stream/playlist.m3u8
-http://187.19.219.52:1935/live/005.stream/playlist.m3u8
-http://187.19.219.52:1935/live/006.stream/playlist.m3u8
-http://187.19.219.52:1935/live/007.stream/playlist.m3u8
-http://187.19.219.52:1935/live/008.stream/playlist.m3u8
-http://187.19.219.52:1935/live/009.stream/playlist.m3u8
-http://187.19.219.52:1935/live/010.stream/playlist.m3u8
-http://187.19.219.52:1935/live/011.stream/playlist.m3u8
-http://187.19.219.52:1935/live/012.stream/playlist.m3u8
-http://187.19.219.52:1935/live/013.stream/playlist.m3u8
-http://187.19.219.52:1935/live/014.stream/playlist.m3u8
-http://187.19.219.52:1935/live/015.stream/playlist.m3u8
-http://187.19.219.52:1935/live/016.stream/playlist.m3u8
-http://187.19.219.52:1935/live/017.stream/playlist.m3u8
-http://187.19.219.52:1935/live/018.stream/playlist.m3u8
-http://187.19.219.52:1935/live/019.stream/playlist.m3u8
-http://187.19.219.52:1935/live/020.stream/playlist.m3u8
-http://187.19.219.52:1935/live/021.stream/playlist.m3u8
+
+
+
+
+
+
 http://187.19.219.52:1935/live/022.stream/playlist.m3u8
 http://187.19.219.52:1935/live/023.stream/playlist.m3u8
 http://187.19.219.52:1935/live/024.stream/playlist.m3u8
