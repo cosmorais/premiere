@@ -1,111 +1,257 @@
 
-#EXTINF:-1,Band SP HD
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Band SP HD
 http://show.servidor.tv:8080/natan100/100natan/489
 
-#EXTINF:-1,Globo RJ HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 1111 ",Globo RJ HD
 http://show.servidor.tv:8080/michel12/12michel/1504
 
 
-#EXTINF:-1,Record RJ HD
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Globo RJ HD
+http://show.servidor.tv:8080/natan100/100natan/1504
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Record RJ HD
 http://show.servidor.tv:8080/michel12/12michel/29780
 
-#EXTINF:-1,AMC HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Record RJ HD
+ttp://show.servidor.tv:8080/natan100/100natan/29780
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",AMC HD
 http://show.servidor.tv:8080/michel12/12michel/1498
 
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",AMC HD
+http://show.servidor.tv:8080/natan100/100natan/1498
 
-#EXTINF:-1,Cinemax HD
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Cinemax HD
 http://show.servidor.tv:8080/michel12/12michel/1490
 
 
-#EXTINF:-1,Telecine Pipoca HD
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Cinemax HD
+http://show.servidor.tv:8080/natan100/100natan/1490
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Telecine Pipoca HD
 http://show.servidor.tv:8080/michel12/12michel/1435
 
 
-#EXTINF:-1,Space HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Telecine Pipoca HD
+http://show.servidor.tv:8080/natan100/100natan/1435
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Space HD
 http://show.servidor.tv:8080/michel12/12michel/1445
 
 
-#EXTINF:-1,Megapix HD
+
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Space HD
+http://show.servidor.tv:8080/natan100/100natan/1445
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Megapix HD
 http://show.servidor.tv:8080/michel12/12michel/1454
 
-#EXTINF:-1,Warner Channel HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Megapix HD
+http://show.servidor.tv:8080/natan100/100natan/1454
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Warner Channel HD
 http://show.servidor.tv:8080/michel12/12michel/1430
 
 
-#EXTINF:-1,MTV HD
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Warner Channel HD
+http://show.servidor.tv:8080/natan100/100natan/1430
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",MTV HD
 http://show.servidor.tv:8080/michel12/12michel/1453
 
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",MTV HD
+http://show.servidor.tv:8080/natan100/100natan/63947
 
-#EXTINF:-1,A Fazenda 13 HD 1
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 HD 1
 http://show.servidor.tv:8080/michel12/12michel/77581
-#EXTINF:-1,A Fazenda 13 HD 2
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",A Fazenda 13 HD 1
+http://show.servidor.tv:8080/natan100/100natan/77581
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 HD 2
 http://show.servidor.tv:8080/michel12/12michel/77580
-#EXTINF:-1,A Fazenda 13 HD 3
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",A Fazenda 13 HD 2
+http://show.servidor.tv:8080/natan100/100natan/77580
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 HD 3
 http://show.servidor.tv:8080/michel12/12michel/77579
-#EXTINF:-1,A Fazenda 13 Cam 01
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 01
 http://show.servidor.tv:8080/michel12/12michel/77578
-#EXTINF:-1,A Fazenda 13 Cam 02
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 02
 http://show.servidor.tv:8080/michel12/12michel/77577
-#EXTINF:-1,A Fazenda 13 Cam 03
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 03
 http://show.servidor.tv:8080/michel12/12michel/77576
-#EXTINF:-1,A Fazenda 13 Cam 04
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 04
 http://show.servidor.tv:8080/michel12/12michel/77575
-#EXTINF:-1,A Fazenda 13 Cam 05
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 05
 http://show.servidor.tv:8080/michel12/12michel/77574
-#EXTINF:-1,A Fazenda 13 Cam 06
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 06
 http://show.servidor.tv:8080/michel12/12michel/77573
-#EXTINF:-1,A Fazenda 13 Cam 07
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 07
 http://show.servidor.tv:8080/michel12/12michel/77572
-#EXTINF:-1,A Fazenda 13 Cam 08
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",A Fazenda 13 Cam 08
 http://show.servidor.tv:8080/michel12/12michel/77571
 
-#EXTINF:-1,SporTV HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",SporTV HD
 http://show.servidor.tv:8080/michel12/12michel/1444
 
-#EXTINF:-1,SporTV 2 HD
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",SporTV HD
+http://show.servidor.tv:8080/natan100/100natan/1444
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",SporTV 2 HD
 http://show.servidor.tv:8080/michel12/12michel/1443
 
-#EXTINF:-1,SporTV 3 HD
+
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",SporTV 2 HD
+http://show.servidor.tv:8080/natan100/100natan/1443
+
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",SporTV 3 HD
 http://show.servidor.tv:8080/michel12/12michel/1442
 
 
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",SporTV 3 HD
+http://show.servidor.tv:8080/natan100/100natan/1442
 
 
-#EXTINF:-1,Premiere 2 HD
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere Clubes HD
+http://show.servidor.tv:8080/michel12/12michel/1447
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere Clubes HD
+http://show.servidor.tv:8080/natan100/100natan/1447
+
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 2 HD
 http://show.servidor.tv:8080/michel12/12michel/1511
 
-#EXTINF:-1,Premiere 3 HD
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 2 HD
+http://show.servidor.tv:8080/natan100/100natan/1511
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 3 HD
 http://show.servidor.tv:8080/michel12/12michel/1510
 
-#EXTINF:-1,Premiere 4 HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 3 HD
+http://show.servidor.tv:8080/natan100/100natan/1510
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 4 HD
 http://show.servidor.tv:8080/michel12/12michel/1509
 
-#EXTINF:-1,Premiere 5 HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 4 HD
+http://show.servidor.tv:8080/natan100/100natan/1509
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 5 HD
 http://show.servidor.tv:8080/michel12/12michel/1508
 
-#EXTINF:-1,Premiere 6 HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 5 HD
+http://show.servidor.tv:8080/natan100/100natan/1508
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 6 HD
 http://show.servidor.tv:8080/michel12/12michel/1507
 
-#EXTINF:-1,Premiere 7 HD
+
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 6 HD
+http://show.servidor.tv:8080/natan100/100natan/1507
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 7 HD
 http://show.servidor.tv:8080/michel12/12michel/1506
 
-#EXTINF:-1,Premiere 8 HD
+
+EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista 2222 ",Premiere 7 HD
+http://show.servidor.tv:8080/natan100/100natan/1506
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 8 HD
 http://show.servidor.tv:8080/michel12/12michel/63207
 
 
 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",Premiere 8 HD
+http://show.servidor.tv:8080/natan100/100natan/63207
 
-#EXTINF:-1,xxx Sexy Hot HD
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Sexy Hot HD
 http://show.servidor.tv:8080/michel12/12michel/49
-#EXTINF:-1,xxx Shemale 1 HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Shemale 1 HD
 http://show.servidor.tv:8080/michel12/12michel/50674
-#EXTINF:-1,xxx Shemale 2 HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Shemale 2 HD
 http://show.servidor.tv:8080/michel12/12michel/50675
-#EXTINF:-1,xxx Tiny4K 1 HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Tiny4K 1 HD
 http://show.servidor.tv:8080/michel12/12michel/32611
-#EXTINF:-1,xxx Tiny4K 2 HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Tiny4K 2 HD
 http://show.servidor.tv:8080/michel12/12michel/32610
-#EXTINF:-1,xxx Venus HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista Michel ",xxx Venus HD
 http://show.servidor.tv:8080/michel12/12michel/13617
 
 
