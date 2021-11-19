@@ -88,10 +88,11 @@ http://show.servidor.tv:8080/natan100/100natan/1430
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",MTV HD
-http://show.servidor.tv:8080/michel12/12michel/1453
+http://show.servidor.tv:8080/michel12/12michel/202
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",MTV HD
-http://show.servidor.tv:8080/natan100/100natan/63947
+http://show.servidor.tv:8080/natan100/100natan/202
+
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",A Fazenda 13 HD 1
