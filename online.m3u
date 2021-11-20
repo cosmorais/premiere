@@ -1,3 +1,16 @@
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 1111" group-title="lista michel",TV Camara HD
+http://show.servidor.tv:8080/michel12/12michel/22511
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 1111" group-title="lista michel",TV Senado HD
+http://show.servidor.tv:8080/michel12/12michel/22515
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",TV Senado HD
+http://show.servidor.tv:8080/natan100/100natan/22515
+
+
+
+
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 1111" group-title="lista michel",Band SP HD
 http://show.servidor.tv:8080/michel12/12michel/489
 
@@ -127,6 +140,20 @@ http://show.servidor.tv:8080/michel12/12michel/77573
 http://show.servidor.tv:8080/michel12/12michel/77572
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",A Fazenda 13 Cam 08
 http://show.servidor.tv:8080/michel12/12michel/77571
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",Combate HD
+http://show.servidor.tv:8080/michel12/12michel/1489
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",Combate HD
+http://show.servidor.tv:8080/natan100/100natan/1489
+
+
+
+
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",SporTV HD
 http://show.servidor.tv:8080/michel12/12michel/1444
@@ -264,6 +291,48 @@ http://show.servidor.tv:8080/michel12/12michel/32611
 http://show.servidor.tv:8080/michel12/12michel/32610
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",xxx Venus HD
 http://show.servidor.tv:8080/michel12/12michel/13617
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 1
+http://show.servidor.tv:8080/natan100/100natan/33230
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 2
+http://show.servidor.tv:8080/natan100/100natan/33231
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 3
+http://show.servidor.tv:8080/natan100/100natan/33232
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 4
+http://show.servidor.tv:8080/natan100/100natan/33233
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 5
+http://show.servidor.tv:8080/natan100/100natan/33234
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 6
+http://show.servidor.tv:8080/natan100/100natan/33235
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 7
+http://show.servidor.tv:8080/natan100/100natan/33236
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 8
+http://show.servidor.tv:8080/natan100/100natan/63314
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 9
+http://show.servidor.tv:8080/natan100/100natan/63313
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 10
+http://show.servidor.tv:8080/natan100/100natan/63312
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 11
+http://show.servidor.tv:8080/natan100/100natan/63311
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 12
+http://show.servidor.tv:8080/natan100/100natan/63310
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 13
+http://show.servidor.tv:8080/natan100/100natan/63309
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 14
+http://show.servidor.tv:8080/natan100/100natan/63308
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",CINE SKY 15
+http://show.servidor.tv:8080/natan100/100natan/63307
+
+
+
+
+
+
+
+
+
 
 
 
