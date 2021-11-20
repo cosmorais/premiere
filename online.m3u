@@ -1,10 +1,11 @@
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",#EXTINF:-1,JIRAYA 24Hs
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",JIRAYA 24Hs
 http://u9in.club:80/lourenco/12345678/52833
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",#EXTINF:-1,Jaspion
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",Jaspion
 http://u9in.club:80/lourenco/12345678/128708
+
 
 
 
