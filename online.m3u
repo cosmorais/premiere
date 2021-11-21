@@ -1,13 +1,5 @@
-#EXTINF:-1,O Fantástico Jaspion S01 E01
-http://srv.vitrizamper.com:80/series/13996058311rodrigo/k38rm3ud3f4f/28938.mp4
-#EXTINF:-1,O Fantástico Jaspion S01 E02
-http://srv.vitrizamper.com:80/series/13996058311rodrigo/k38rm3ud3f4f/28939.mp4
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",AMC SD
-http://srv.vitrizamper.com:80/13996058311rodrigo/k38rm3ud3f4f/5
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",zodiaco
-http://srv.vitrizamper.com:80/live/13996058311rodrigo/k38rm3ud3f4f/1425.m3u8
+#EXTINF:-5 ,AMC HD
+http://sv1.nowiptv.net:8880/live/marcio8780/8780marcio/33167.m3u8
 
 
 #EXTINF:-1,O,futebol marcio
