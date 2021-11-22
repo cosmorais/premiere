@@ -1,8 +1,3 @@
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 28/11" group-title="lista 28/11",AMC brasiltv
-http://play.brasiltvweb.com/v3/youshi/m3_xRBGDPf12puWsC8kV6FAETNH_480p.m3u8?session_id=TzdeSzJ2iv6g&app_ver=10101&auth_id=55921752_com.global.brasiltvweb&client_ip=189.126.81.22&user_id=55921752&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=d536fd26&expired=1637548127&token=03070B53C18C39CA46FA5892B361CF8F&media_code=m3_xRBGDPf12puWsC8kV6FAETNH_480p
-
-
-
 #EXTINF:-5 ,AMC HD marcio
 http://sv1.nowiptv.net:8880/live/marcio8780/8780marcio/33167.m3u8
 
@@ -138,15 +133,15 @@ http://show.servidor.tv:8080/natan100/100natan/202
 http://show.servidor.tv:8080/michel12/12michel/77581
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",A Fazenda 13 HD 1
-http://show.servidor.tv:8080/natan100/100natan/77581
-
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",A Fazenda 13 HD 2
 http://show.servidor.tv:8080/michel12/12michel/77580
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista michel",A Fazenda 13 HD 2
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 2222" group-title="lista 2222",A Fazenda 13 HD 1
 http://show.servidor.tv:8080/natan100/100natan/77580
+
+
+
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="lista michel ",A Fazenda 13 HD 3
 http://show.servidor.tv:8080/michel12/12michel/77579
