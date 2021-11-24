@@ -6,14 +6,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637795700/ei/F
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637801511/ei/x4meYfz_BJCtwgT3173IDQ/ip/189.126.81.104/id/1rgaF-tNHe8.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgR0fmMJuHTp-a5mg7NIuuW4tc8N7RPtb9T5ZnC50HH-MCIQDpQBSqMNVqwIYZefK-p0GexqguM9EpE_BH5LA-7Vsz3Q%3D%3D/file/index.m3u8
 
 
-
-
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="youtube",camara youtube
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637799523/ei/A4KeYY-4H62dobIP-KKm8Ag/ip/189.126.81.249/id/8Hi94K6Jdmk.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMBZFJYsxGj7p-Dl9kvwY2_xbemd19J_A7fN4coVo48QCIQCvb4XtBeMn6rIx8x5tbtNugaEA3GcQjhSqhgU_jqvtcw%3D%3D/file/index.m3u8
 
 
-
-
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="youtube",Denis UBER
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637803623/ei/B5KeYeCmNq2dobIP-KKm8Ag/ip/189.126.81.226/id/qJIri5ckzuk.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgf9huFv4l19AEiT3xnQp29s8lYZ_I77sJ1cZrkxbf8yICIQC83a0lBQIqL2UZn143iZ6BHPIbRdYaMVF6I7UyJYdn2A%3D%3D/file/index.m3u8
 
 
 #EXTINF:-5 ,AMC HD marcio
