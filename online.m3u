@@ -19,9 +19,8 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cr0FVh2pF4-KHcOT3YUrczhWyb7
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="youtube",Denis UBER
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637803623/ei/B5KeYeCmNq2dobIP-KKm8Ag/ip/189.126.81.226/id/qJIri5ckzuk.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgf9huFv4l19AEiT3xnQp29s8lYZ_I77sJ1cZrkxbf8yICIQC83a0lBQIqL2UZn143iZ6BHPIbRdYaMVF6I7UyJYdn2A%3D%3D/file/index.m3u8
-
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="youtube",Uber Sem Limites
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637867735/ei/d4yfYfq2KoyOobIPiIq5iAo/ip/189.126.81.45/id/e7dqtcp1KWE.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgE32lF4CXyCdk6LUQBSaLu2cQ5m8aHbNVxp_Lbv6cPesCIAbBWhfIDmQueIWepibU8BPQlqOYccxWTPf2CIWdvSZ0/file/index.m3u8
 
 #EXTINF:-5 ,AMC HD marcio
 http://sv1.nowiptv.net:8880/live/marcio8780/8780marcio/33167.m3u8
