@@ -5,27 +5,20 @@ http://show.servidor.tv:8080/Eliane123/123eliane/77580
 #EXTINF:-1,A Fazenda 13 Cam 2
 http://show.servidor.tv:8080/Eliane123/123eliane/77579
 
-#EXTINF:-1,TV CÂMARA
+#EXTINF:-1,TV CÂMARA antony
 http://168.205.87.198:8555/live/antony/1234/136.m3u8
 
 #EXTINF:-1,TV SENADO
-http://168.205.87.198:8555/live/antony/1234/139.m3u8
+http://show.servidor.tv:8080/Eliane123/123eliane/22515
 
-
-#EXTINF:-1,CLASSIC HITS
-http://168.205.87.198:8555/live/antony/1234/27.m3u8
-
-
-#EXTINF:-1,TNT SÉRIES
-http://168.205.87.198:8555/live/antony/1234/117.m3u8
 
 
 #EXTINF:-1,CNN BRASIL
-http://168.205.87.198:8555/live/antony/1234/28.m3u8
+http://show.servidor.tv:8080/Eliane123/123eliane/21417
 
 
 #EXTINF:-1,ESPN BRASIL
-http://168.205.87.198:8555/live/antony/1234/50.m3u8
+http://show.servidor.tv:8080/Eliane123/123eliane/92902
 
 
 
