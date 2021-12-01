@@ -1,3 +1,29 @@
+#EXTINF:0,GLOBO BRASÍLIA
+http://163.172.147.18:8081/globo_brasilia/2/playlist.m3u8
+
+#EXTINF:0,GLOBO MINAS
+http://163.172.147.18:8081/globo_minas_hd/2/playlist.m3u8
+
+#EXTINF:0,GLOBO NEWS
+http://163.172.147.18:8081/globo_news_hd/2/playlist.m3u8
+
+#EXTINF:0,GLOBO NORDESTE
+http://163.172.147.18:8081/globo_nordeste_hd/2/playlist.m3u8
+
+#EXTINF:0,GLOBO NORDESTE
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/live.m3u8
+
+#EXTINF:0,GLOBO RJ
+http://163.172.147.18:8081/globo_rj/2/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://163.172.147.18:8081/globo_sp_hd/2/playlist.m3u8
+
+#EXTINF:0,GLOOB
+http://163.172.147.18:8081/gloob_hd/2/playlist.m3u8
+
+
+
 #EXTINF:-1, JERFESON YOUTUBE
 http://cnxmain.qualcom.life:80/live/163830412037608/040263/42028.m3u8
 
