@@ -1,39 +1,149 @@
 
-#EXTINF:-1,A Fazenda 13 Cam 1
-http://show.servidor.tv:8080/Eliane123/123eliane/77580
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",A Fazenda 13
+http://show.servidor.tv:8080/elza123/123elza/77580
 
 
-#EXTINF:-1,A Fazenda 13 Cam 2
-http://show.servidor.tv:8080/Eliane123/123eliane/77579
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",MEGAPIX HD
+http://show.servidor.tv:8080/elza123/123elza/1454
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Cinemax
+http://show.servidor.tv:8080/elza123/123elza/1490
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",AMC 
+http://show.servidor.tv:8080/elza123/123elza/1498
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",SPACE
+http://show.servidor.tv:8080/elza123/123elza/1445
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",COMBATE - HD
+http://show.servidor.tv:8080/elza123/123elza/1489
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",PREMIERE CLUBES - HD
+http://show.servidor.tv:8080/elza123/123elza/1447
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",CNN BRASIL
+http://show.servidor.tv:8080/elza123/123elza/21417
+
+
+
+----------------------------------------------------------------------------------------
+
 
 #EXTINF:-1,TV CÂMARA antony
 http://168.205.87.198:8555/live/antony/1234/136.m3u8
 
 #EXTINF:-1,TV SENADO
-http://show.servidor.tv:8080/Eliane123/123eliane/22515
+http://168.205.87.198:8555/live/antony/1234/139.m3u8
+
+#EXTINF:-1,BAND
+http://168.205.87.198:8555/live/antony/1234/19.m3u8
 
 
 
-#EXTINF:-1,CNN BRASIL
-http://show.servidor.tv:8080/Eliane123/123eliane/21417
+#EXTINF:-1,sexy
+http://live.redtraffic.xyz/teen.m3u8?IMDSFULL
+
+#EXTINF:-1, sexy 2
+http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
-#EXTINF:-1,ESPN BRASIL
-http://show.servidor.tv:8080/Eliane123/123eliane/92902
+---------------------------------------------------------------------------------------------
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",A Fazenda 13
+http://u9in.club:80/Clessio01/Clessio01/136684
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",MEGAPIX HD
+http://u9in.club:80/Clessio01/Clessio01/103677
 
 
 
-#EXTINF:-1,Band SP 
-http://show.servidor.tv:8080/Eliane123/123eliane/489
-
-#EXTINF:-1,AMC 
-http://show.servidor.tv:8080/Eliane123/123eliane/1498
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",Cinemax
+http://u9in.club:80/Clessio01/Clessio01/83530
 
 
 
-#EXTINF:-1,Cinemax 
-http://show.servidor.tv:8080/Eliane123/123eliane/1490
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",AMC 
+http://u9in.club:80/Clessio01/Clessio01/83517
 
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",SPACE
+http://u9in.club:80/Clessio01/Clessio01/83578
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",COMBATE - HD
+http://u9in.club:80/Clessio01/Clessio01/82833
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",PREMIERE CLUBES - HD
+http://u9in.club:80/Clessio01/Clessio01/8376
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",[24H] Jaspion
+http://u9in.club:80/Clessio01/Clessio01/128708
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="BBBB" group-title="BBBB",CNN BRASIL
+http://u9in.club:80/Clessio01/Clessio01/83090
+
+
+-------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",A Fazenda 13
+http://show.servidor.tv:8080/Leni123/123leni/77580
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",MEGAPIX HD
+http://show.servidor.tv:8080/Leni123/123leni/1454
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",Cinemax
+http://show.servidor.tv:8080/Leni123/123leni/1490
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",AMC 
+http://show.servidor.tv:8080/Leni123/123leni/1498
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",SPACE
+http://show.servidor.tv:8080/Leni123/123leni/1445
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",COMBATE - HD
+http://show.servidor.tv:8080/Leni123/123leni/1489
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",PREMIERE CLUBES - HD
+http://show.servidor.tv:8080/Leni123/123leni/1447
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",CNN BRASIL
+http://show.servidor.tv:8080/Leni123/123leni/21417
+
+
+
+
+
+
+
+=====================================================================================================
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",MEGAPIX HD
 http://solutionplay.xyz:8080/techruthes/10987658/6457
@@ -145,11 +255,7 @@ http://show.servidor.tv:8080/Eliane123/123eliane/1447
 
 
 
-#EXTINF:-1,sexy
-http://live.redtraffic.xyz/teen.m3u8?IMDSFULL
 
-#EXTINF:-1, sexy 2
-http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
 
