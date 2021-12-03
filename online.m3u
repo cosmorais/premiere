@@ -157,13 +157,48 @@ http://show.servidor.tv:8080/Leni123/123leni/489
 
 =====================================================================================================
 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",AMC HD
+http://solutionplay.xyz:8080/techruthes/10987658/27115
+
+
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/10987658/6457
+http://solutionplay.xyz:8080/techruthes/10987658/27195
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TV SENADO HD
+http://solutionplay.xyz:8080/techruthes/10987658/27361
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TV CÂMARA
+http://solutionplay.xyz:8080/techruthes/10987658/27363
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SP HD
+http://solutionplay.xyz:8080/techruthes/10987658/27348
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SPORTS HD
+http://solutionplay.xyz:8080/techruthes/10987658/27375
+
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",Cinemax
+
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SPACE HD
-http://solutionplay.xyz:8080/techruthes/10987658/6466
 
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",DISCOVERY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/5875
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",WARNER CHANNEL HD
@@ -171,7 +206,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6486
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",A&E HD
-http://solutionplay.xyz:8080/techruthes/10987658/6427
+http://solutionplay.xyz:8080/techruthes/10987658/27103
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TELECINE FUN FHD
@@ -211,8 +246,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6047
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SONY HD
-http://solutionplay.xyz:8080/techruthes/10987658/6463
-
+http://solutionplay.xyz:8080/techruthes/10987658/27155
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="lista 09/12",JIRAYA 24Hs
@@ -272,6 +306,8 @@ http://show.servidor.tv:8080/Eliane123/123eliane/1447
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",AMC SD
 http://bolos.cteam.me:80/denise123/denise123/857104
+
+
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",Jaspion 24HS
