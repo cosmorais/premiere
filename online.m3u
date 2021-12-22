@@ -403,71 +403,47 @@ http://show.servidor.tv:8080/Eliane123/123eliane/63207
 
 ===============================================================================================
 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="17/janeiro",AMC HD
+http://dns.icuto.me:8080/34773886/28240145/372761
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",AMC SD
-http://bolos.cteam.me:80/denise123/denise123/857104
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="17/janeiro",MTV Pluto TV
+http://dns.icuto.me:8080/34773886/28240145/292614
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="17/janeiro",MTV HD
+http://dns.icuto.me:8080/34773886/28240145/267653
+
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="17/janeiro",TELE CINE FUN
+http://dns.icuto.me:8080/34773886/28240145/267583
 
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",Jaspion 24HS
+EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",Jaspion 24HS
 http://bolos.cteam.me:80/denise123/denise123/888591
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",JESUS 24 HRS
+EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",JESUS 24 HRS
 http://bolos.cteam.me:80/denise123/denise123/888662
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",MEGAPIX SD
-http://bolos.cteam.me:80/denise123/denise123/857167
 
 
+==============================================================================================================================
 
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",CINEMAX SD
-http://bolos.cteam.me:80/denise123/denise123/857119
-
-
-
- 
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",SPACE SD
-http://bolos.cteam.me:80/denise123/denise123/857203
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",COMBATE SD
-http://bolos.cteam.me:80/denise123/denise123/857120
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",PREMIERE 1 CLUBES SD
-http://bolos.cteam.me:80/denise123/denise123/876264
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",CNN BRASIL SD
-http://bolos.cteam.me:80/denise123/denise123/857248
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="16/12" group-title="16/12",BAND SP HD
-http://bolos.cteam.me:80/denise123/denise123/888443
+ http://solutionplay.xyz:8080/get.php?username=techruthes&password=10987658&type=m3u
 
 
 
 
 
 
-http://solutionplay.xyz:8080/get.php?username=techruthes&password=10987658&type=m3u
 
 
 
