@@ -200,56 +200,52 @@ http://show.servidor.tv:8080/Leni123/123leni/489
 =====================================================================================================unilimited
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",AMC HD
-http://solutionplay.xyz:8080/techruthes/10987658/27115
+http://solutionplay.xyz:8080/05957714/62207618/27113
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/10987658/27195
+http://solutionplay.xyz:8080/05957714/62207618/27193
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TV SENADO HD
-http://solutionplay.xyz:8080/techruthes/10987658/27361
+
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TV CÂMARA
-http://solutionplay.xyz:8080/techruthes/10987658/27363
+http://solutionplay.xyz:8080/05957714/62207618/27363
 
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SP HD
-http://solutionplay.xyz:8080/techruthes/10987658/27348
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SP rj
+http://solutionplay.xyz:8080/05957714/62207618/27351
 
 
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SPORTS HD
-http://solutionplay.xyz:8080/techruthes/10987658/27375
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SONY HD
-http://solutionplay.xyz:8080/techruthes/10987658/27155
+http://solutionplay.xyz:8080/05957714/62207618/27153
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",Cinemax
-
+http://solutionplay.xyz:8080/05957714/62207618/27129
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SPACE HD
-
+http://solutionplay.xyz:8080/05957714/62207618/27159
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/10987658/5875
+http://solutionplay.xyz:8080/05957714/62207618/27709
 
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",A&E HD
-http://solutionplay.xyz:8080/techruthes/10987658/27103
+http://solutionplay.xyz:8080/05957714/62207618/27101
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TELECINE FUN FHD
@@ -422,7 +418,181 @@ http://bolos.cteam.me:80/denise123/denise123/888662
 
 
 
-
+#EXTM3U
+#EXTINF:-1,GLOBO BAHIA
+http://solutionplay.xyz:8080/05957714/62207618/27227
+#EXTINF:-1,GLOBO BAURU
+http://solutionplay.xyz:8080/05957714/62207618/27231
+#EXTINF:-1,GLOBO BRASILIA
+http://solutionplay.xyz:8080/05957714/62207618/27224
+#EXTINF:-1,GLOBO RJ
+http://solutionplay.xyz:8080/05957714/62207618/27214
+#EXTINF:-1,SBT
+http://solutionplay.xyz:8080/05957714/62207618/27331
+#EXTINF:-1,RECORD RJ
+http://solutionplay.xyz:8080/05957714/62207618/27318
+#EXTINF:-1,BAND RJ
+http://solutionplay.xyz:8080/05957714/62207618/27351
+#EXTINF:-1,TV BRASIL
+http://solutionplay.xyz:8080/05957714/62207618/27359
+#EXTINF:-1,TV CÂMARA
+http://solutionplay.xyz:8080/05957714/62207618/27363
+#EXTINF:-1,TV JUSTIÇA
+http://solutionplay.xyz:8080/05957714/62207618/27364
+#EXTINF:-1,CANAL DO BOI
+http://solutionplay.xyz:8080/05957714/62207618/27372
+#EXTINF:-1,COMBATE
+http://solutionplay.xyz:8080/05957714/62207618/27379
+#EXTINF:-1,FOX SPORTS
+http://solutionplay.xyz:8080/05957714/62207618/27385
+#EXTINF:-1,FOX SPORTS 2
+http://solutionplay.xyz:8080/05957714/62207618/27393
+#EXTINF:-1,SPORTV SD
+http://solutionplay.xyz:8080/05957714/62207618/6027
+#EXTINF:-1,ESPN
+http://solutionplay.xyz:8080/05957714/62207618/27532
+#EXTINF:-1,ESPN 2
+http://solutionplay.xyz:8080/05957714/62207618/27537
+#EXTINF:-1,ESTADIO TNT SPORTS 1
+http://solutionplay.xyz:8080/05957714/62207618/20879
+#EXTINF:-1,PREMIERE CLUBES
+http://solutionplay.xyz:8080/05957714/62207618/27462
+#EXTINF:-1,PREMIERE 8
+http://solutionplay.xyz:8080/05957714/62207618/27508
+#EXTINF:-1,A&E
+http://solutionplay.xyz:8080/05957714/62207618/27101
+#EXTINF:-1,AXN
+http://solutionplay.xyz:8080/05957714/62207618/27107
+#EXTINF:-1,AMC
+http://solutionplay.xyz:8080/05957714/62207618/27113
+#EXTINF:-1,CINEMAX
+http://solutionplay.xyz:8080/05957714/62207618/27129
+#EXTINF:-1,FX
+http://solutionplay.xyz:8080/05957714/62207618/27140
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://solutionplay.xyz:8080/05957714/62207618/27147
+#EXTINF:-1,SONY
+http://solutionplay.xyz:8080/05957714/62207618/27153
+#EXTINF:-1,SPACE
+http://solutionplay.xyz:8080/05957714/62207618/27159
+#EXTINF:-1,TNT
+http://solutionplay.xyz:8080/05957714/62207618/27174
+#EXTINF:-1,TNT SÉRIES
+http://solutionplay.xyz:8080/05957714/62207618/27180
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://solutionplay.xyz:8080/05957714/62207618/27187
+#EXTINF:-1,MEGAPIX
+http://solutionplay.xyz:8080/05957714/62207618/27193
+#EXTINF:-1,WARNER
+http://solutionplay.xyz:8080/05957714/62207618/27199
+#EXTINF:-1,TELECINE ACTION
+http://solutionplay.xyz:8080/05957714/62207618/27551
+#EXTINF:-1,TELECINE CULT
+http://solutionplay.xyz:8080/05957714/62207618/27557
+#EXTINF:-1,TELECINE FUN
+http://solutionplay.xyz:8080/05957714/62207618/27563
+#EXTINF:-1,TELECINE PIPOCA
+http://solutionplay.xyz:8080/05957714/62207618/27569
+#EXTINF:-1,TELECINE PREMIUM
+http://solutionplay.xyz:8080/05957714/62207618/27575
+#EXTINF:-1,TELECINE TOUCH
+http://solutionplay.xyz:8080/05957714/62207618/27580
+#EXTINF:-1,HBO 2
+http://solutionplay.xyz:8080/05957714/62207618/27591
+#EXTINF:-1,HBO FAMILY
+http://solutionplay.xyz:8080/05957714/62207618/27597
+#EXTINF:-1,HBO MUNDI
+http://solutionplay.xyz:8080/05957714/62207618/27603
+#EXTINF:-1,HBO POP
+http://solutionplay.xyz:8080/05957714/62207618/27609
+#EXTINF:-1,HBO SIGNATURE
+http://solutionplay.xyz:8080/05957714/62207618/27615
+#EXTINF:-1,HBO XTREME
+http://solutionplay.xyz:8080/05957714/62207618/27626
+#EXTINF:-1,BOOMERANG
+http://solutionplay.xyz:8080/05957714/62207618/27630
+#EXTINF:-1,BABY TV
+http://solutionplay.xyz:8080/05957714/62207618/27635
+#EXTINF:-1,CARTOON NETWORK
+http://solutionplay.xyz:8080/05957714/62207618/27639
+#EXTINF:-1,DISNEY CHANNEL
+http://solutionplay.xyz:8080/05957714/62207618/27648
+#EXTINF:-1,DISNEY JR
+http://solutionplay.xyz:8080/05957714/62207618/27652
+#EXTINF:-1,DISNEY XD
+http://solutionplay.xyz:8080/05957714/62207618/27658
+#EXTINF:-1,GLOOB
+http://solutionplay.xyz:8080/05957714/62207618/27661
+#EXTINF:-1,GLOOBINHO
+http://solutionplay.xyz:8080/05957714/62207618/27664
+#EXTINF:-1,PLAY KIDS
+http://solutionplay.xyz:8080/05957714/62207618/27666
+#EXTINF:-1,NATGEO KIDS
+http://solutionplay.xyz:8080/05957714/62207618/27668
+#EXTINF:-1,NICK JR
+http://solutionplay.xyz:8080/05957714/62207618/27671
+#EXTINF:-1,NICKELODEON
+http://solutionplay.xyz:8080/05957714/62207618/27674
+#EXTINF:-1,ANIMAL PLANET
+http://solutionplay.xyz:8080/05957714/62207618/27679
+#EXTINF:-1,HISTORY CHANNEL
+http://solutionplay.xyz:8080/05957714/62207618/27685
+#EXTINF:-1,NATGEO WILD
+http://solutionplay.xyz:8080/05957714/62207618/27698
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://solutionplay.xyz:8080/05957714/62207618/27704
+#EXTINF:-1,DISCOVERY CHANNEL
+http://solutionplay.xyz:8080/05957714/62207618/27709
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://solutionplay.xyz:8080/05957714/62207618/27715
+#EXTINF:-1,DISCOVERY SCIENCE
+http://solutionplay.xyz:8080/05957714/62207618/27721
+#EXTINF:-1,DISCOVERY THEATER
+http://solutionplay.xyz:8080/05957714/62207618/27727
+#EXTINF:-1,DISCOVERY TLC
+http://solutionplay.xyz:8080/05957714/62207618/27733
+#EXTINF:-1,DISCOVERY TURBO
+http://solutionplay.xyz:8080/05957714/62207618/27737
+#EXTINF:-1,DISCOVERY WORLD
+http://solutionplay.xyz:8080/05957714/62207618/27743
+#EXTINF:-1,BAND NEWS SD
+http://solutionplay.xyz:8080/05957714/62207618/6102
+#EXTINF:-1,CNN BRASIL SD
+http://solutionplay.xyz:8080/05957714/62207618/6103
+#EXTINF:-1,RECORD NEWS SD
+http://solutionplay.xyz:8080/05957714/62207618/6105
+#EXTINF:-1,GLOBO NEWS SD
+http://solutionplay.xyz:8080/05957714/62207618/6109
+#EXTINF:-1,BIS
+http://solutionplay.xyz:8080/05957714/62207618/27757
+#EXTINF:-1,CURTA
+http://solutionplay.xyz:8080/05957714/62207618/27760
+#EXTINF:-1,FOOD NETWOORK
+http://solutionplay.xyz:8080/05957714/62207618/27764
+#EXTINF:-1,GNT
+http://solutionplay.xyz:8080/05957714/62207618/27768
+#EXTINF:-1,OFF
+http://solutionplay.xyz:8080/05957714/62207618/27773
+#EXTINF:-1,TRU TV
+http://solutionplay.xyz:8080/05957714/62207618/27777
+#EXTINF:-1,POLISHOP
+http://solutionplay.xyz:8080/05957714/62207618/27776
+#EXTINF:-1,VIVA
+http://solutionplay.xyz:8080/05957714/62207618/27781
+#EXTINF:-1,MULTISHOW
+http://solutionplay.xyz:8080/05957714/62207618/27786
+#EXTINF:-1,TV APARECIDA ²
+http://solutionplay.xyz:8080/05957714/62207618/1909
+#EXTINF:-1,TV APARECIDA ³
+http://solutionplay.xyz:8080/05957714/62207618/1910
+#EXTINF:-1,Canção Nova
+http://solutionplay.xyz:8080/05957714/62207618/5858
+#EXTINF:-1,Novo Tempo
+http://solutionplay.xyz:8080/05957714/62207618/5987
+#EXTINF:-1,RIT TV
+http://solutionplay.xyz:8080/05957714/62207618/6018
+#EXTINF:-1,TV PAI ETERNO
+http://solutionplay.xyz:8080/05957714/62207618/6049
 
 
 
