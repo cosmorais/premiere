@@ -61,25 +61,37 @@ http://show.servidor.tv:8080/dani123/123dani/21417
 
 
 
-----------------------------------------------------------------------------------------AAAAAAAAAAAAA
-
-#EXTINF:-1,Jaspion 24HS
-http://netturbotv.xyz:80/Vanessa/Vanessa/813657
+----------------------------------------------------------------------------------------FFFFFFFFF
 
 
 
-#EXTINF:-1,TV Camara HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",TV Camara HD
 http://show.servidor.tv:8080/elza123/123elza/22511
 
-#EXTINF:-1,TV Senado HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",TV Senado HD
 http://show.servidor.tv:8080/elza123/123elza/22515
 
-#EXTINF:-1,Band SP HD+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Band SP HD+
 http://show.servidor.tv:8080/elza123/123elza/484
 
 
-#EXTINF:-1,Globo News HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Globo News HD
 http://show.servidor.tv:8080/elza123/123elza/1468
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 1 HD
+http://canaishd.servidor.tv:8080/elza123/123elza/102687
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 2 HD
+http://canaishd.servidor.tv:8080/elza123/123elza/102686
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 3 HD
+http://canaishd.servidor.tv:8080/elza123/123elza/102685
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 4 HD
+http://canaishd.servidor.tv:8080/elza123/123elza/102684
+
+
 
 
 #EXTINF:-1,sexy
