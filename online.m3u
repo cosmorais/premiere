@@ -1,12 +1,6 @@
 
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-1,Jaspion 24H
-http://51.89.98.62:8080/BMW125/567898/570
-
-#EXTINF:-1,CAMPEONATO CARIOCA HD 01 PPV
-http://51.89.98.62:8080/BMW125/567898/50825
-
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Guia de Programação Esportes
@@ -57,6 +51,45 @@ http://show.servidor.tv:8080/dani123/123dani/1447
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",CNN BRASIL
 http://show.servidor.tv:8080/dani123/123dani/21417
+
+
+
+#EXTINF:-1,Jaspion 24H
+http://51.89.98.62:8080/BMW125/567898/570
+
+#EXTINF:-1,CAMPEONATO CARIOCA HD 01 PPV
+http://51.89.98.62:8080/BMW125/567898/50825
+
+
+
+http://canaishd.servidor.tv:8080/dani123/123dani/360
+#EXTINF:-1,BBB 2022 Casa 1 HD
+http://canaishd.servidor.tv:8080/dani123/123dani/100024
+#EXTINF:-1,BBB 2022 Casa 2 HD
+http://canaishd.servidor.tv:8080/dani123/123dani/100023
+#EXTINF:-1,BBB 2022 Mosaico
+http://canaishd.servidor.tv:8080/dani123/123dani/100013
+#EXTINF:-1,BBB 2022 Academia
+http://canaishd.servidor.tv:8080/dani123/123dani/100014
+#EXTINF:-1,BBB 2022 Chuveiro
+http://canaishd.servidor.tv:8080/dani123/123dani/100019
+#EXTINF:-1,BBB 2022 Confessionário
+http://canaishd.servidor.tv:8080/dani123/123dani/100022
+#EXTINF:-1,BBB 2022 Cozinha
+http://canaishd.servidor.tv:8080/dani123/123dani/100018
+#EXTINF:-1,BBB 2022 Jardim
+http://canaishd.servidor.tv:8080/dani123/123dani/100015
+#EXTINF:-1,BBB 2022 Piscina
+http://canaishd.servidor.tv:8080/dani123/123dani/100016
+#EXTINF:-1,BBB 2022 Quarto Grunge
+http://canaishd.servidor.tv:8080/dani123/123dani/100020
+#EXTINF:-1,BBB 2022 Quarto Lollipop
+http://canaishd.servidor.tv:8080/dani123/123dani/100021
+#EXTINF:-1,BBB 2022 Sala
+http://canaishd.servidor.tv:8080/dani123/123dani/100017
+
+
+
 
 
 
