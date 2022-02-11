@@ -91,7 +91,8 @@ http://canaishd.servidor.tv:8080/elza123/123elza/102685
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 4 HD
 http://canaishd.servidor.tv:8080/elza123/123elza/102684
 
-
+#EXTINF:-1,Os Cavaleiros do Zodíaco
+http://canaishd.servidor.tv:8080/elza123/123elza/33100
 
 
 #EXTINF:-1,sexy
@@ -146,6 +147,52 @@ http://cloud-nany.cc:80/onofre10/10onofre/144189
 #EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11-03-2022 ",CNN BRASIL
 http://cloud-nany.cc:80/onofre10/10onofre/59729
 
+
+#EXTINF:-1,BBB MOSAICO HD
+http://cloud-nany.cc:80/onofre10/10onofre/142897
+
+#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1
+http://cloud-nany.cc:80/onofre10/10onofre/142892
+#EXTINF:-1,BBB 22 -ACOMPANHE A CASA 2
+http://cloud-nany.cc:80/onofre10/10onofre/142891
+#EXTINF:-1,BBB 1 HD
+http://cloud-nany.cc:80/onofre10/10onofre/142894
+#EXTINF:-1,BBB 2 HD
+http://cloud-nany.cc:80/onofre10/10onofre/142895
+#EXTINF:-1,BBB 22 - JARDIM
+http://cloud-nany.cc:80/onofre10/10onofre/142890
+#EXTINF:-1,BBB 22 - JARDIM ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142826
+#EXTINF:-1,BBB 22 - PISCINA
+http://cloud-nany.cc:80/onofre10/10onofre/142889
+#EXTINF:-1,BBB 22 - PISCINA ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142825
+#EXTINF:-1,BBB 22 - SALA
+http://cloud-nany.cc:80/onofre10/10onofre/142888
+#EXTINF:-1,BBB 22 - SALA ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142824
+#EXTINF:-1,BBB 22 - COZINHA
+http://cloud-nany.cc:80/onofre10/10onofre/142887
+#EXTINF:-1,BBB 22 - COZINHA ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142823
+#EXTINF:-1,BBB 22 - ACADEMIA
+http://cloud-nany.cc:80/onofre10/10onofre/142882
+#EXTINF:-1,BBB 22 - ACADEMIA ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142827
+#EXTINF:-1,BBB 22 - CHUVEIRO
+http://cloud-nany.cc:80/onofre10/10onofre/142886
+#EXTINF:-1,BBB 22 - CHUVEIRO ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142822
+#EXTINF:-1,BBB 22 - QUARTO GRUNJE
+http://cloud-nany.cc:80/onofre10/10onofre/142885
+#EXTINF:-1,BBB 22 - QUARTO GRUNGE ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142821
+#EXTINF:-1,BBB 22 - QUARTO LOLLIPOP
+http://cloud-nany.cc:80/onofre10/10onofre/142884
+#EXTINF:-1,BBB 22 - QUARTO LOLLIPOP ALT
+http://cloud-nany.cc:80/onofre10/10onofre/142828
+#EXTINF:-1,BBB 22 - CONFESSIONARIO
+http://cloud-nany.cc:80/onofre10/10onofre/142883
 
 -------------------------------------------------------------------------------------
 
