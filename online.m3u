@@ -1,5 +1,5 @@
 
-
+-------------------------------------------------------------------------------------------
 
 #EXTINF:-1,Jaspion 24H
 http://51.89.98.62:8080/BMW125/567898/570
@@ -10,7 +10,7 @@ http://51.89.98.62:8080/BMW125/567898/50825
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Guia de Programação Esportes
-http://canaishd.servidor.tv:8080/dani123/123dani/102693
+http://show.servidor.tv:8080/dani123/123dani/102693
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Rede TV HD
 http://show.servidor.tv:8080/dani123/123dani/136
@@ -40,7 +40,6 @@ http://show.servidor.tv:8080/dani123/123dani/1490
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",AMC 
 http://show.servidor.tv:8080/dani123/123dani/1498
-
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",SPACE
 http://show.servidor.tv:8080/dani123/123dani/1445
@@ -80,16 +79,16 @@ http://show.servidor.tv:8080/elza123/123elza/1468
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 1 HD
-http://canaishd.servidor.tv:8080/elza123/123elza/102687
+http://show.servidor.tv:8080/elza123/123elza/102687
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 2 HD
-http://canaishd.servidor.tv:8080/elza123/123elza/102686
+http://show.servidor.tv:8080/elza123/123elza/102686
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 3 HD
-http://canaishd.servidor.tv:8080/elza123/123elza/102685
+http://show.servidor.tv:8080/elza123/123elza/102685
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 4 HD
-http://canaishd.servidor.tv:8080/elza123/123elza/102684
+http://show.servidor.tv:8080/elza123/123elza/102684
 
 #EXTINF:-1,Os Cavaleiros do Zodíaco
 http://canaishd.servidor.tv:8080/elza123/123elza/33100
