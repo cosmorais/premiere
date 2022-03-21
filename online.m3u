@@ -4,53 +4,58 @@
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Guia de Programação Esportes
+http://canaishd.servidor.tv:8080/dani123/123dani/102693
+
+
 http://show.servidor.tv:8080/dani123/123dani/102693
 
+
+
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Rede TV HD
-http://show.servidor.tv:8080/dani123/123dani/136
+http://canaishd.servidor.tv:8080/dani123/123dani/136
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Globo RJ HD
-http://show.servidor.tv:8080/dani123/123dani/1504
+http://canaishd.servidor.tv:8080/dani123/123dani/1504
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Band SP HD
-http://show.servidor.tv:8080/dani123/123dani/489
+http://canaishd.servidor.tv:8080/dani123/123dani/489
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Record RJ HD
-http://show.servidor.tv:8080/dani123/123dani/29780
+http://canaishd.servidor.tv:8080/dani123/123dani/29780
 
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",MEGAPIX HD
-http://show.servidor.tv:8080/dani123/123dani/1454
+http://canaishd.servidor.tv:8080/dani123/123dani/1454
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Cinemax
-http://show.servidor.tv:8080/dani123/123dani/1490
+http://canaishd.servidor.tv:8080/dani123/123dani/1490
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",AMC 
-http://show.servidor.tv:8080/dani123/123dani/1498
+http://canaishd.servidor.tv:8080/dani123/123dani/1498
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",SPACE
-http://show.servidor.tv:8080/dani123/123dani/1445
+http://canaishd.servidor.tv:8080/dani123/123dani/1445
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",COMBATE - HD
-http://show.servidor.tv:8080/dani123/123dani/1489
+http://canaishd.servidor.tv:8080/dani123/123dani/1489
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",PREMIERE CLUBES - HD
-http://show.servidor.tv:8080/dani123/123dani/1447
+http://canaishd.servidor.tv:8080/dani123/123dani/1447
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",CNN BRASIL
-http://show.servidor.tv:8080/dani123/123dani/21417
+http://canaishd.servidor.tv:8080/dani123/123dani/21417
 
 
 
@@ -201,14 +206,16 @@ http://cloud-nany.cc:80/onofre10/10onofre/8118
 http://cloud-nany.cc:80/onofre10/10onofre/7955
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11-03-2022 ",CAMPEONATO CARIOCA HD 01 PPV
+#EXTINF:-1,CAMPEONATO CARIOCA HD 01 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144191
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11-03-2022 ",CAMPEONATO CARIOCA HD 03 PPV
+#EXTINF:-1,CAMPEONATO CARIOCA HD 03 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144190
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11-03-2022 ",CAMPEONATO CARIOCA HD 02 PPV
+#EXTINF:-1,CAMPEONATO CARIOCA HD 02 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144189
+#EXTINF:-1,CAMPEONATO CARIOCA HD 04 PPV
+http://cloud-nany.cc:80/onofre10/10onofre/144220
+#EXTINF:-1,CAMPEONATO CARIOCA HD 05 PPV
+http://cloud-nany.cc:80/onofre10/10onofre/144219
 
 
 
@@ -219,6 +226,17 @@ http://cloud-nany.cc:80/onofre10/10onofre/59729
 #EXTINF:-1,BBB MOSAICO HD
 http://cloud-nany.cc:80/onofre10/10onofre/142897
 
+
+
+#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1
+http://cloud-nany.cc:80/onofre10/10onofre/142892
+#EXTINF:-1,BBB 22 -ACOMPANHE A CASA 2
+http://cloud-nany.cc:80/onofre10/10onofre/142891
+
+#EXTINF:-1,BBB 1 HD
+http://cloud-nany.cc:80/onofre10/10onofre/142894
+#EXTINF:-1,BBB 2 HD
+http://cloud-nany.cc:80/onofre10/10onofre/142895
 
 #EXTINF:-1,BAND NEWS HD
 http://cloud-nany.cc:80/onofre10/10onofre/8136
@@ -271,11 +289,15 @@ http://show.servidor.tv:8080/Leni123/123leni/1445
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",COMBATE - HD
-http://show.servidor.tv:8080/Leni123/123leni/1489
+http://canaishd.servidor.tv:8080/Leni123/123leni/1489
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",PREMIERE CLUBES - HD
-http://show.servidor.tv:8080/Leni123/123leni/1447
+http://canaishd.servidor.tv:8080/Leni123/123leni/1447
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",CNN BRASIL
+http://canaishd.servidor.tv:8080/Leni123/123leni/21417
 
 
 
@@ -285,7 +307,7 @@ http://show.servidor.tv:8080/Leni123/123leni/21417
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",Band SP HD
-http://show.servidor.tv:8080/Leni123/123leni/489
+http://canaishd.servidor.tv:8080/Leni123/123leni/489
 
 
 #EXTINF:-1,Band News HD
