@@ -109,34 +109,308 @@ http://canaishd.servidor.tv:8080/dani123/123dani/360
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",TV Camara HD
-http://show.servidor.tv:8080/elza123/123elza/22511
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",TV Senado HD
-http://show.servidor.tv:8080/elza123/123elza/22515
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Band SP HD+
-http://show.servidor.tv:8080/elza123/123elza/484
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="22/ABRIL" group-title="22/ABRIL",TV Camara HD
+http://10gbps.tech:8080/01020304/01020304/193
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Globo News HD
-http://show.servidor.tv:8080/elza123/123elza/1468
+#EXTINF:-1,TV CAMARA SD
+http://10gbps.tech:8080/01020304/01020304/192
+#EXTINF:-1,TV CAMARA HD
+http://10gbps.tech:8080/01020304/01020304/193
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 1 HD
-http://show.servidor.tv:8080/elza123/123elza/102687
+#EXTINF:-1,TV SENADO SD
+http://10gbps.tech:8080/01020304/01020304/213
+#EXTINF:-1,TV SENADO HD
+http://10gbps.tech:8080/01020304/01020304/214
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 2 HD
-http://show.servidor.tv:8080/elza123/123elza/102686
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 3 HD
-http://show.servidor.tv:8080/elza123/123elza/102685
+#EXTINF:-1,CINE TERROR
+http://10gbps.tech:8080/01020304/01020304/40292
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FFFF" group-title="FFFF",Cariocão Play 4 HD
-http://show.servidor.tv:8080/elza123/123elza/102684
 
-#EXTINF:-1,Os Cavaleiros do Zodíaco
-http://canaishd.servidor.tv:8080/elza123/123elza/33100
+
+#EXTINF:-1,TELECINE ACTION SD
+http://10gbps.tech:8080/01020304/01020304/179381
+#EXTINF:-1,TELECINE ACTION HD
+http://10gbps.tech:8080/01020304/01020304/179382
+
+#EXTINF:-1,TELECINE CULT SD
+http://10gbps.tech:8080/01020304/01020304/179387
+#EXTINF:-1,TELECINE CULT HD
+http://10gbps.tech:8080/01020304/01020304/179388
+0
+#EXTINF:-1,TELECINE FUN SD
+http://10gbps.tech:8080/01020304/01020304/179393
+#EXTINF:-1,TELECINE FUN HD
+http://10gbps.tech:8080/01020304/01020304/179394
+
+#EXTINF:-1,TELECINE PIPOCA SD
+http://10gbps.tech:8080/01020304/01020304/179399
+#EXTINF:-1,TELECINE PIPOCA HD
+http://10gbps.tech:8080/01020304/01020304/179400
+
+#EXTINF:-1,TELECINE PREMIUM SD
+http://10gbps.tech:8080/01020304/01020304/179405
+#EXTINF:-1,TELECINE PREMIUM HD
+http://10gbps.tech:8080/01020304/01020304/179406
+
+#EXTINF:-1,TELECINE TOUCH SD
+http://10gbps.tech:8080/01020304/01020304/179411
+#EXTINF:-1,TELECINE TOUCH HD
+http://10gbps.tech:8080/01020304/01020304/179412
+#EXTINF:-1,TELECINE TOUCH FHD
+http://10gbps.tech:8080/01020304/01020304/179414
+#EXTINF:-1,A&E SD
+http://10gbps.tech:8080/01020304/01020304/179415
+#EXTINF:-1,A&E HD
+http://10gbps.tech:8080/01020304/01020304/179418
+#EXTINF:-1,A&E FHD
+http://10gbps.tech:8080/01020304/01020304/179420
+#EXTINF:-1,AMC SD
+http://10gbps.tech:8080/01020304/01020304/179421
+#EXTINF:-1,AMC HD
+http://10gbps.tech:8080/01020304/01020304/179424
+
+#EXTINF:-1,ARTE 1 SD
+http://10gbps.tech:8080/01020304/01020304/179427
+#EXTINF:-1,ARTE 1 HD
+http://10gbps.tech:8080/01020304/01020304/179431
+2
+#EXTINF:-1,AXN SD
+http://10gbps.tech:8080/01020304/01020304/179433
+#EXTINF:-1,AXN HD
+http://10gbps.tech:8080/01020304/01020304/179436
+
+#EXTINF:-1,CINEMAX SD
+http://10gbps.tech:8080/01020304/01020304/179439
+#EXTINF:-1,CINEMAX HD
+
+
+#EXTINF:-1,FX SD
+http://10gbps.tech:8080/01020304/01020304/179451
+#EXTINF:-1,FX HD
+http://10gbps.tech:8080/01020304/01020304/179453
+
+#EXTINF:-1,MEGAPIX SD
+http://10gbps.tech:8080/01020304/01020304/179457
+#EXTINF:-1,MEGAPIX HD
+http://10gbps.tech:8080/01020304/01020304/179459
+
+
+#EXTINF:-1,SPACE SD
+http://10gbps.tech:8080/01020304/01020304/179473
+#EXTINF:-1,SPACE HD
+http://10gbps.tech:8080/01020304/01020304/179476
+
+
+
+
+
+#EXTINF:-1,WARNNER SD
+http://10gbps.tech:8080/01020304/01020304/179543
+#EXTINF:-1,WARNNER HD
+http://10gbps.tech:8080/01020304/01020304/179546
+
+
+
+
+#EXTINF:-1,COMBATE SD
+http://10gbps.tech:8080/01020304/01020304/179637
+#EXTINF:-1,COMBATE HD
+http://10gbps.tech:8080/01020304/01020304/179640
+
+#EXTINF:-1,SPORTV SD
+http://10gbps.tech:8080/01020304/01020304/179679
+#EXTINF:-1,SPORTV HD
+http://10gbps.tech:8080/01020304/01020304/179682
+
+#EXTINF:-1,SPORTV 2 SD
+http://10gbps.tech:8080/01020304/01020304/179687
+#EXTINF:-1,SPORTV 2 HD
+http://10gbps.tech:8080/01020304/01020304/179688
+
+#EXTINF:-1,SPORTV 3 SD
+http://10gbps.tech:8080/01020304/01020304/179691
+#EXTINF:-1,SPORTV 3 HD
+http://10gbps.tech:8080/01020304/01020304/179694
+
+#EXTINF:-1,PREMIERE CLUBES SD
+http://10gbps.tech:8080/01020304/01020304/179698
+#EXTINF:-1,PREMIERE CLUBES HD
+http://10gbps.tech:8080/01020304/01020304/179701
+
+#EXTINF:-1,PREMIERE 2 SD
+http://10gbps.tech:8080/01020304/01020304/179704
+#EXTINF:-1,PREMIERE 2 HD
+http://10gbps.tech:8080/01020304/01020304/179707
+
+#EXTINF:-1,PREMIERE 3 SD
+http://10gbps.tech:8080/01020304/01020304/179710
+#EXTINF:-1,PREMIERE 3 HD
+http://10gbps.tech:8080/01020304/01020304/179713
+
+#EXTINF:-1,PREMIERE 4 SD
+http://10gbps.tech:8080/01020304/01020304/179718
+#EXTINF:-1,PREMIERE 4 HD
+http://10gbps.tech:8080/01020304/01020304/179719
+
+#EXTINF:-1,PREMIERE 5 SD
+http://10gbps.tech:8080/01020304/01020304/179724
+#EXTINF:-1,PREMIERE 5 HD
+http://10gbps.tech:8080/01020304/01020304/179725
+
+#EXTINF:-1,PREMIERE 6 SD
+http://10gbps.tech:8080/01020304/01020304/179730
+#EXTINF:-1,PREMIERE 6 HD
+http://10gbps.tech:8080/01020304/01020304/179731
+
+#EXTINF:-1,PREMIERE 7 SD
+http://10gbps.tech:8080/01020304/01020304/179734
+#EXTINF:-1,PREMIERE 7 HD
+http://10gbps.tech:8080/01020304/01020304/179736
+#EXTINF:-1,RECORD SP SD
+http://10gbps.tech:8080/01020304/01020304/180016
+#EXTINF:-1,RECORD SP HD
+http://10gbps.tech:8080/01020304/01020304/180017
+
+#EXTINF:-1,RECORD RJ SD
+http://10gbps.tech:8080/01020304/01020304/180019
+#EXTINF:-1,RECORD RJ HD
+http://10gbps.tech:8080/01020304/01020304/180020
+
+
+
+#EXTINF:-1,BAND SP SD
+http://10gbps.tech:8080/01020304/01020304/180074
+#EXTINF:-1,BAND SP HD
+http://10gbps.tech:8080/01020304/01020304/180075
+
+#EXTINF:-1,BAND RJ SD
+http://10gbps.tech:8080/01020304/01020304/180077
+#EXTINF:-1,BAND RJ HD
+
+#EXTINF:-1,BAND NEWS SD
+http://10gbps.tech:8080/01020304/01020304/180086
+#EXTINF:-1,BAND NEWS HD
+http://10gbps.tech:8080/01020304/01020304/180089
+
+#EXTINF:-1,GLOBO NEWS SD
+http://10gbps.tech:8080/01020304/01020304/180098
+#EXTINF:-1,GLOBO NEWS HD
+
+#EXTINF:-1,RECORD NEWS SD
+http://10gbps.tech:8080/01020304/01020304/180104
+#EXTINF:-1,RECORD NEWS HD
+http://10gbps.tech:8080/01020304/01020304/180107
+
+
+
+
+
+#EXTINF:-1,MTV SD
+http://10gbps.tech:8080/01020304/01020304/180235
+#EXTINF:-1,MTV HD
+http://10gbps.tech:8080/01020304/01020304/180238
+
+#EXTINF:-1,MULTISHOW SD
+http://10gbps.tech:8080/01020304/01020304/180241
+#EXTINF:-1,MULTISHOW HD
+http://10gbps.tech:8080/01020304/01020304/180244
+#EXTINF:-1,OFF SD
+http://10gbps.tech:8080/01020304/01020304/180246
+#EXTINF:-1,OFF HD
+
+#EXTINF:-1,CINE SKY 01
+http://10gbps.tech:8080/01020304/01020304/180309
+#EXTINF:-1,CINE SKY 02
+http://10gbps.tech:8080/01020304/01020304/180310
+#EXTINF:-1,CINE SKY 03
+http://10gbps.tech:8080/01020304/01020304/180311
+#EXTINF:-1,CINE SKY 04
+http://10gbps.tech:8080/01020304/01020304/180312
+#EXTINF:-1,CINE SKY 05
+http://10gbps.tech:8080/01020304/01020304/180313
+#EXTINF:-1,CINE SKY 06
+http://10gbps.tech:8080/01020304/01020304/180314
+#EXTINF:-1,CINE SKY 07
+http://10gbps.tech:8080/01020304/01020304/180315
+#EXTINF:-1,CINE SKY 08
+http://10gbps.tech:8080/01020304/01020304/180316
+#EXTINF:-1,CINE SKY 09
+http://10gbps.tech:8080/01020304/01020304/180317
+#EXTINF:-1,BAND RS SD
+http://10gbps.tech:8080/01020304/01020304/180321
+#EXTINF:-1,BAND RS HD
+http://10gbps.tech:8080/01020304/01020304/180322
+#EXTINF:-1,CINE SKY 10
+http://10gbps.tech:8080/01020304/01020304/182359
+
+
+
+#EXTINF:-1,JOVEN PAM NEWS SD
+http://10gbps.tech:8080/01020304/01020304/428696
+#EXTINF:-1,JOVEN PAN NEWS HD
+http://10gbps.tech:8080/01020304/01020304/428697
+
+
+#EXTINF:-1,GLOBO RJ  SD
+http://10gbps.tech:8080/01020304/01020304/431528
+#EXTINF:-1,GLOBO RJ  HD
+
+
+#EXTINF:-1,MOSAICO
+http://10gbps.tech:8080/01020304/01020304/517905
+#EXTINF:-1,CAM 1
+http://10gbps.tech:8080/01020304/01020304/517906
+#EXTINF:-1,CAM 2
+http://10gbps.tech:8080/01020304/01020304/517908
+#EXTINF:-1,CAM 3
+http://10gbps.tech:8080/01020304/01020304/517909
+#EXTINF:-1,CAM 4
+http://10gbps.tech:8080/01020304/01020304/517910
+#EXTINF:-1,CAM 5
+http://10gbps.tech:8080/01020304/01020304/517911
+#EXTINF:-1,CAM 6
+http://10gbps.tech:8080/01020304/01020304/517912
+#EXTINF:-1,CAM 7
+http://10gbps.tech:8080/01020304/01020304/517913
+#EXTINF:-1,CAM 8
+http://10gbps.tech:8080/01020304/01020304/517914
+#EXTINF:-1,CAM 9
+http://10gbps.tech:8080/01020304/01020304/517915
+#EXTINF:-1,CAM 10
+http://10gbps.tech:8080/01020304/01020304/517916
+#EXTINF:-1,CAM 11
+http://10gbps.tech:8080/01020304/01020304/517917
+
+
+#EXTINF:-1,COPA CARIOCA 1
+http://10gbps.tech:8080/01020304/01020304/518050
+#EXTINF:-1,COPA CARIOCA 2
+http://10gbps.tech:8080/01020304/01020304/518051
+
+
+
+
+
+
+#EXTINF:-1,24Hrs: OS CAVALEIROS DO ZODIACO
+http://10gbps.tech:8080/01020304/01020304/528311
+
+
+
+
+
+
+
+#EXTINF:-1,24Hrs: JASPION
+http://10gbps.tech:8080/01020304/01020304/528435
+
+
+
+
+
 
 
 #EXTINF:-1,sexy
@@ -155,26 +429,26 @@ http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11-ABRIL-2022 ",MEGAPIX HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11-ABRIL-2022" group-title="11-ABRIL-2022",MEGAPIX HD
 http://cloud-nany.cc:80/onofre10/10onofre/7990
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",Cinemax
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022"group-title="11 ABRI-2022",Cinemax
 http://cloud-nany.cc:80/onofre10/10onofre/8120
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",AMC 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",AMC 
 http://cloud-nany.cc:80/onofre10/10onofre/8147
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",SPACE
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",SPACE
 http://cloud-nany.cc:80/onofre10/10onofre/7936
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",COMBATE - HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",COMBATE - HD
 http://cloud-nany.cc:80/onofre10/10onofre/8118
 
 
@@ -182,20 +456,20 @@ http://cloud-nany.cc:80/onofre10/10onofre/8118
 http://cloud-nany.cc:80/onofre10/10onofre/7955
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 01 PPV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 01 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144191
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 03 PPV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 03 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144190
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 02 PPV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 02 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144189
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 04 PPV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 04 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144220
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 05 PPV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 05 PPV
 http://cloud-nany.cc:80/onofre10/10onofre/144219
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",CNN BRASIL
+#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022",CNN BRASIL
 http://cloud-nany.cc:80/onofre10/10onofre/59729
 
 
@@ -589,93 +863,178 @@ http://10gbps.tech:8080/mae123/mae123/528435
 ==============================================================================================================================
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name=" 24-março-2022 " group-title="11-03-2022 ",BAND NEWS SD
-http://solutionplay.xyz:8080/46618872/30948201/6102
+http://10gbps.tech:8080/familia2022/2022familia/180086
+
+#EXTINF:-1,BAND NEWS HD
+http://10gbps.tech:8080/familia2022/2022familia/180089
 
 #EXTINF:-1,CNN BRASIL SD
-http://solutionplay.xyz:8080/46618872/30948201/6103
-
-#EXTINF:-1,RECORD NEWS SD
-http://solutionplay.xyz:8080/46618872/30948201/6105
+http://10gbps.tech:8080/familia2022/2022familia/180092
+#EXTINF:-1,CNN BRASIL HD
+http://10gbps.tech:8080/familia2022/2022familia/180095
 
 #EXTINF:-1,GLOBO NEWS SD
-http://solutionplay.xyz:8080/46618872/30948201/6109
+http://10gbps.tech:8080/familia2022/2022familia/180098
+#EXTINF:-1,GLOBO NEWS HD
+http://10gbps.tech:8080/familia2022/2022familia/180101
 
-#EXTINF:-1,JOVEM PAN NEWS HD
-http://solutionplay.xyz:8080/46618872/30948201/26967
+#EXTINF:-1,RECORD NEWS SD
+http://10gbps.tech:8080/familia2022/2022familia/180104
+#EXTINF:-1,RECORD NEWS HD
+http://10gbps.tech:8080/familia2022/2022familia/180107
 
-#EXTINF:-1,MULTISHOW
-http://solutionplay.xyz:8080/46618872/30948201/27786
+#EXTINF:-1,JOVEN PAM NEWS SD
+http://10gbps.tech:8080/familia2022/2022familia/428696
+#EXTINF:-1,JOVEN PAN NEWS HD
+http://10gbps.tech:8080/familia2022/2022familia/428697
 
-#EXTINF:-1,PREMIERE CLUBES
-http://solutionplay.xyz:8080/46618872/30948201/27462
 
-#EXTINF:-1,PREMIERE 8
-http://solutionplay.xyz:8080/46618872/30948201/27508
+#EXTINF:-1,TV CAMARA SD
+http://10gbps.tech:8080/familia2022/2022familia/192
+#EXTINF:-1,TV CAMARA HD
+http://10gbps.tech:8080/familia2022/2022familia/193
 
-#EXTINF:-1,ANIMAL PLANET
-http://solutionplay.xyz:8080/46618872/30948201/27679
+EXTINF:-1,TV SENADO SD
+http://10gbps.tech:8080/familia2022/2022familia/213
+#EXTINF:-1,TV SENADO HD
+http://10gbps.tech:8080/familia2022/2022familia/214
 
-#EXTINF:-1,A&E
-http://solutionplay.xyz:8080/46618872/30948201/27101
-#EXTINF:-1,AXN
-http://solutionplay.xyz:8080/46618872/30948201/27107
-#EXTINF:-1,AMC
-http://solutionplay.xyz:8080/46618872/30948201/27113
-#EXTINF:-1,CINEMAX
-http://solutionplay.xyz:8080/46618872/30948201/27129
-#EXTINF:-1,FX
-http://solutionplay.xyz:8080/46618872/30948201/27140
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://solutionplay.xyz:8080/46618872/30948201/27147
-#EXTINF:-1,SONY
-http://solutionplay.xyz:8080/46618872/30948201/27153
-#EXTINF:-1,SPACE
-http://solutionplay.xyz:8080/46618872/30948201/27159
-#EXTINF:-1,TNT
-http://solutionplay.xyz:8080/46618872/30948201/27174
-#EXTINF:-1,TNT SÉRIES
-http://solutionplay.xyz:8080/46618872/30948201/27180
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://solutionplay.xyz:8080/46618872/30948201/27187
-#EXTINF:-1,MEGAPIX
-http://solutionplay.xyz:8080/46618872/30948201/27193
-#EXTINF:-1,WARNER
-http://solutionplay.xyz:8080/46618872/30948201/27199
-#EXTINF:-1,TELECINE ACTION
-http://solutionplay.xyz:8080/46618872/30948201/27551
-#EXTINF:-1,TELECINE CULT
-http://solutionplay.xyz:8080/46618872/30948201/27557
-#EXTINF:-1,TELECINE FUN
-http://solutionplay.xyz:8080/46618872/30948201/27563
-#EXTINF:-1,TELECINE PIPOCA
-http://solutionplay.xyz:8080/46618872/30948201/27569
-#EXTINF:-1,TELECINE PREMIUM
-http://solutionplay.xyz:8080/46618872/30948201/27575
-#EXTINF:-1,TELECINE TOUCH
-http://solutionplay.xyz:8080/46618872/30948201/27580
 
-#EXTINF:-1,BAND RJ
-http://solutionplay.xyz:8080/46618872/30948201/27351
-#EXTINF:-1,TV BRASIL
-http://solutionplay.xyz:8080/46618872/30948201/27359
-#EXTINF:-1,TV CÂMARA
-http://solutionplay.xyz:8080/46618872/30948201/27363
-#EXTINF:-1,TV JUSTIÇA
-http://solutionplay.xyz:8080/46618872/30948201/27364
-#EXTINF:-1,COMBATE
-http://solutionplay.xyz:8080/46618872/30948201/27379
-#EXTINF:-1,FOX SPORTS
-http://solutionplay.xyz:8080/46618872/30948201/27385
-#EXTINF:-1,FOX SPORTS 2
-http://solutionplay.xyz:8080/46618872/30948201/27393
-#EXTINF:-1,SPORTV SD
-http://solutionplay.xyz:8080/46618872/30948201/6027
-#EXTINF:-1,ESPN
-http://solutionplay.xyz:8080/46618872/30948201/27532
-#EXTINF:-1,ESPN 2
-http://solutionplay.xyz:8080/46618872/30948201/27537
-#EXTINF:-1,ESTADIO TNT SPORTS 1
-http://solutionplay.xyz:8080/46618872/30948201/20879
+
+
+
+
+
+
+#EXTINF:-1,TELECINE ACTION SD
+http://10gbps.tech:8080/familia2022/2022familia/179381
+#EXTINF:-1,TELECINE ACTION HD
+http://10gbps.tech:8080/familia2022/2022familia/179382
+
+#EXTINF:-1,TELECINE CULT SD
+http://10gbps.tech:8080/familia2022/2022familia/179387
+#EXTINF:-1,TELECINE CULT HD
+http://10gbps.tech:8080/familia2022/2022familia/179388
+
+#EXTINF:-1,TELECINE FUN SD
+http://10gbps.tech:8080/familia2022/2022familia/179393
+#EXTINF:-1,TELECINE FUN HD
+http://10gbps.tech:8080/familia2022/2022familia/179394
+
+#EXTINF:-1,TELECINE PIPOCA SD
+http://10gbps.tech:8080/familia2022/2022familia/179399
+#EXTINF:-1,TELECINE PIPOCA HD
+http://10gbps.tech:8080/familia2022/2022familia/179400
+
+#EXTINF:-1,TELECINE PREMIUM SD
+http://10gbps.tech:8080/familia2022/2022familia/179405
+#EXTINF:-1,TELECINE PREMIUM HD
+http://10gbps.tech:8080/familia2022/2022familia/179406
+
+#EXTINF:-1,TELECINE TOUCH SD
+http://10gbps.tech:8080/familia2022/2022familia/179411
+#EXTINF:-1,TELECINE TOUCH HD
+http://10gbps.tech:8080/familia2022/2022familia/179412
+
+
+#EXTINF:-1,AMC SD
+http://10gbps.tech:8080/familia2022/2022familia/179421
+#EXTINF:-1,AMC HD
+http://10gbps.tech:8080/familia2022/2022familia/179424
+
+
+
+#EXTINF:-1,AXN SD
+http://10gbps.tech:8080/familia2022/2022familia/179433
+#EXTINF:-1,AXN HD
+http://10gbps.tech:8080/familia2022/2022familia/179436
+
+#EXTINF:-1,CINEMAX SD
+http://10gbps.tech:8080/familia2022/2022familia/179439
+#EXTINF:-1,CINEMAX HD
+http://10gbps.tech:8080/familia2022/2022familia/179441
+
+
+#EXTINF:-1,FX SD
+http://10gbps.tech:8080/familia2022/2022familia/179451
+#EXTINF:-1,FX HD
+http://10gbps.tech:8080/familia2022/2022familia/179453
+
+#EXTINF:-1,MEGAPIX SD
+http://10gbps.tech:8080/familia2022/2022familia/179457
+#EXTINF:-1,MEGAPIX HD
+http://10gbps.tech:8080/familia2022/2022familia/179459
+
+
+#EXTINF:-1,SPACE SD
+http://10gbps.tech:8080/familia2022/2022familia/179473
+#EXTINF:-1,SPACE HD
+http://10gbps.tech:8080/familia2022/2022familia/179476
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,MOSAICO
+http://10gbps.tech:8080/familia2022/2022familia/517905
+#EXTINF:-1,CAM 1
+http://10gbps.tech:8080/familia2022/2022familia/517906
+#EXTINF:-1,CAM 2
+http://10gbps.tech:8080/familia2022/2022familia/517908
+#EXTINF:-1,CAM 3
+http://10gbps.tech:8080/familia2022/2022familia/517909
+#EXTINF:-1,CAM 4
+http://10gbps.tech:8080/familia2022/2022familia/517910
+#EXTINF:-1,CAM 5
+http://10gbps.tech:8080/familia2022/2022familia/517911
+#EXTINF:-1,CAM 6
+http://10gbps.tech:8080/familia2022/2022familia/517912
+#EXTINF:-1,CAM 7
+http://10gbps.tech:8080/familia2022/2022familia/517913
+#EXTINF:-1,CAM 8
+http://10gbps.tech:8080/familia2022/2022familia/517914
+#EXTINF:-1,CAM 9
+http://10gbps.tech:8080/familia2022/2022familia/517915
+#EXTINF:-1,CAM 10
+http://10gbps.tech:8080/familia2022/2022familia/517916
+#EXTINF:-1,CAM 11
+http://10gbps.tech:8080/familia2022/2022familia/517917
+
+
+
+#EXTINF:-1,COPA CARIOCA 1
+http://10gbps.tech:8080/familia2022/2022familia/518050
+#EXTINF:-1,COPA CARIOCA 2
+http://10gbps.tech:8080/familia2022/2022familia/518051
+
+
+#EXTINF:-1,24Hrs: JASPION
+http://10gbps.tech:8080/familia2022/2022familia/528435
+
+
+#EXTINF:-1,24Hrs: OS CAVALEIROS DO ZODIACO
+http://10gbps.tech:8080/familia2022/2022familia/528311
+
+
+
+
 
 
 
