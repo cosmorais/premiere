@@ -1205,7 +1205,7 @@ http://10gbps.tech:8080/familia2022/2022familia/528311
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="02/05/2022" group-title="02/05/2022",[24H] Jaspion
-http://xsrv.me:80/28agos/panzer.32/93726
+http://xsrv.me:8080/28agos/panzer.32/93726
 
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraiya" tvg-logo="http://xsrv.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jiraiya
