@@ -1207,89 +1207,247 @@ http://10gbps.tech:8080/familia2022/2022familia/528311
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="02/05/2022" group-title="02/05/2022",[24H] Jaspion
 http://xsrv.me:8080/28agos/panzer.32/93726
 
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraiya" tvg-logo="http://xsrv.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jiraiya
+#EXTINF:-1,[24H] Jiraiya
 http://xsrv.me:80/28agos/panzer.32/92453
 
 
-EXTINF:-1 tvg-id="" tvg-name="[24] A Praça é Nossa" tvg-logo="http://cdnbr.me/logos/img/pracanossa.png" group-title="- [24 Horas] Diversos",[24] A Praça é Nossa
-http://xsrv.me:80/28agos/panzer.32/93390
+#EXTINF:-1,[24H] Jaspion
+http://xsrv.me:80/28agos/panzer.32/93726
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sessão da Tarde" tvg-logo="http://cdnbr.me/logos/img/sessaotarde.png" group-title="- [24 Horas] Diversos",[24H] Sessão da Tarde
-http://xsrv.me:80/28agos/panzer.32/93664
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 01 - HD" tvg-logo="http://cdnbr.me/logos/img/cineterror.png" group-title="- Cine Sky",Cine Terror 01 - HD
-http://xsrv.me:80/28agos/panzer.32/93434
-
-
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - HD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - HD
+#EXTINF:-1,AMC - SD
+http://xsrv.me:80/28agos/panzer.32/24809
+#EXTINF:-1,AMC - HD
 http://xsrv.me:80/28agos/panzer.32/24807
 
+#EXTINF:-1,Band SP - São Paulo [SD]
+http://xsrv.me:80/28agos/panzer.32/24548
 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - HD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - HD
-http://xsrv.me:80/28agos/panzer.32/24552
+#EXTINF:-1,Band News - SD
+http://xsrv.me:80/28agos/panzer.32/24554
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 01" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 01
-http://xsrv.me:80/28agos/panzer.32/86130
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 02" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 02
-http://xsrv.me:80/28agos/panzer.32/86131
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 03" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 03
+#EXTINF:-1,Cine Pipoca - 03
 http://xsrv.me:80/28agos/panzer.32/86132
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 04" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 04
+#EXTINF:-1,Cine Pipoca - 04
 http://xsrv.me:80/28agos/panzer.32/86133
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 05" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 05
+#EXTINF:-1,Cine Pipoca - 05
 http://xsrv.me:80/28agos/panzer.32/86134
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 06" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 06
+#EXTINF:-1,Cine Pipoca - 06
 http://xsrv.me:80/28agos/panzer.32/86135
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 07" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 07
+#EXTINF:-1,Cine Pipoca - 07
 http://xsrv.me:80/28agos/panzer.32/86136
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 08" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 08
+#EXTINF:-1,Cine Pipoca - 08
 http://xsrv.me:80/28agos/panzer.32/86137
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 09" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 09
+#EXTINF:-1,Cine Pipoca - 09
 http://xsrv.me:80/28agos/panzer.32/86138
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 10" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 10
+#EXTINF:-1,Cine Pipoca - 10
 http://xsrv.me:80/28agos/panzer.32/86139
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 11" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 11
+#EXTINF:-1,Cine Pipoca - 11
 http://xsrv.me:80/28agos/panzer.32/86140
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 12" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 12
+#EXTINF:-1,Cine Pipoca - 12
 http://xsrv.me:80/28agos/panzer.32/86141
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 13" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 13
+#EXTINF:-1,Cine Pipoca - 13
 http://xsrv.me:80/28agos/panzer.32/86142
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Cine Pipoca - 14" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 14
+#EXTINF:-1,Cine Pipoca - 14
 http://xsrv.me:80/28agos/panzer.32/86143
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 01" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 01
+#EXTINF:-1,Cine Sky - 01
 http://xsrv.me:80/28agos/panzer.32/59512
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 02" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 02
+#EXTINF:-1,Cine Sky - 02
 http://xsrv.me:80/28agos/panzer.32/59513
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 03" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 03
+#EXTINF:-1,Cine Sky - 03
 http://xsrv.me:80/28agos/panzer.32/59514
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 04" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 04
+#EXTINF:-1,Cine Sky - 04
 http://xsrv.me:80/28agos/panzer.32/59515
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 05" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 05
+#EXTINF:-1,Cine Sky - 05
 http://xsrv.me:80/28agos/panzer.32/59516
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 06" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 06
+#EXTINF:-1,Cine Sky - 06
 http://xsrv.me:80/28agos/panzer.32/81504
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 07" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 07
+#EXTINF:-1,Cine Sky - 07
 http://xsrv.me:80/28agos/panzer.32/81505
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 08" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 08
+#EXTINF:-1,Cine Sky - 08
 http://xsrv.me:80/28agos/panzer.32/81506
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 09" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 09
+#EXTINF:-1,Cine Sky - 09
 http://xsrv.me:80/28agos/panzer.32/81507
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 10" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 10
+#EXTINF:-1,Cine Sky - 10
 http://xsrv.me:80/28agos/panzer.32/81508
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - SD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - SD
+#EXTINF:-1,Cinemax - SD
 http://xsrv.me:80/28agos/panzer.32/24828
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - HD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - HD
-http://xsrv.me:80/28agos/panzer.32/24826
-
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - HD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - HD
-http://xsrv.me:80/28agos/panzer.32/24600
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Cavaleiros do Zodíaco•" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Os Cavaleiros do Zodíaco•
-http://xsrv.me:80/28agos/panzer.32/54604
+#EXTINF:-1,CNN Brasil - SD
+http://xsrv.me:80/28agos/panzer.32/30277
+
+
+#EXTINF:-1,Globo RJ - Rio de Janeiro SD
+http://xsrv.me:80/28agos/panzer.32/30676
+
+
+#EXTINF:-1,MTV - SD
+http://xsrv.me:80/28agos/panzer.32/25152
+
+
+#EXTINF:-1,Multishow - SD
+http://xsrv.me:80/28agos/panzer.32/25179
+
+
+#EXTINF:-1,Premiere - Clubes SD
+http://xsrv.me:80/28agos/panzer.32/24677
+#EXTINF:-1,Premiere - Clubes HD
+http://xsrv.me:80/28agos/panzer.32/24674
+#EXTINF:-1,Premiere - Clubes HD²  [Alter]
+http://xsrv.me:80/28agos/panzer.32/95729
+#EXTINF:-1,Premiere - Clubes HD³  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120127
+#EXTINF:-1,Premiere - Clubes FHD
+http://xsrv.me:80/28agos/panzer.32/24671
+#EXTINF:-1,Premiere - 2 SD
+http://xsrv.me:80/28agos/panzer.32/24682
+#EXTINF:-1,Premiere - 2 HD
+http://xsrv.me:80/28agos/panzer.32/24679
+#EXTINF:-1,Premiere - 02 HD²  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120128
+#EXTINF:-1,Premiere - 02 HD³  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120129
+#EXTINF:-1,Premiere - 2 FHD
+http://xsrv.me:80/28agos/panzer.32/34645
+#EXTINF:-1,Premiere - 3 SD
+http://xsrv.me:80/28agos/panzer.32/24692
+#EXTINF:-1,Premiere - 3 HD
+http://xsrv.me:80/28agos/panzer.32/24689
+#EXTINF:-1,Premiere - 03 HD²  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120130
+#EXTINF:-1,Premiere - 03 HD³  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120131
+#EXTINF:-1,Premiere - 3 FHD
+http://xsrv.me:80/28agos/panzer.32/24686
+#EXTINF:-1,Premiere - 4 SD
+http://xsrv.me:80/28agos/panzer.32/24700
+#EXTINF:-1,Premiere - 4 HD
+http://xsrv.me:80/28agos/panzer.32/24697
+#EXTINF:-1,Premiere - 04 HD²  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120132
+#EXTINF:-1,Premiere - 04 HD³  [Alter]
+http://xsrv.me:80/28agos/panzer.32/120133
+#EXTINF:-1,Premiere - 4 FHD
+http://xsrv.me:80/28agos/panzer.32/24694
+#EXTINF:-1,Premiere - 5 SD
+http://xsrv.me:80/28agos/panzer.32/24708
+#EXTINF:-1,Premiere - 5 HD
+http://xsrv.me:80/28agos/panzer.32/24706
+#EXTINF:-1,Premiere - 6 SD
+http://xsrv.me:80/28agos/panzer.32/24715
+#EXTINF:-1,Premiere - 6 HD
+http://xsrv.me:80/28agos/panzer.32/24713
+#EXTINF:-1,Premiere - 7 SD
+http://xsrv.me:80/28agos/panzer.32/24721
+#EXTINF:-1,Premiere - 7 HD
+http://xsrv.me:80/28agos/panzer.32/24720
+#EXTINF:-1,Premiere - 8 - SD *
+http://xsrv.me:80/28agos/panzer.32/24724
+
+#EXTINF:-1,Record RJ - Rio de Janeiro [SD]
+http://xsrv.me:80/28agos/panzer.32/24511
+
+
+#EXTINF:-1,Space - SD
+http://xsrv.me:80/28agos/panzer.32/24906
+
+
+#EXTINF:-1,SporTv - SD
+http://xsrv.me:80/28agos/panzer.32/24613
+#EXTINF:-1,SporTv - HD
+http://xsrv.me:80/28agos/panzer.32/24610
+#EXTINF:-1,SporTv - FHD
+http://xsrv.me:80/28agos/panzer.32/24607
+#EXTINF:-1,SporTv 2 - SD
+http://xsrv.me:80/28agos/panzer.32/24620
+#EXTINF:-1,SporTv 2 - HD
+http://xsrv.me:80/28agos/panzer.32/24617
+#EXTINF:-1,SporTv 2 - FHD
+http://xsrv.me:80/28agos/panzer.32/24615
+#EXTINF:-1,SporTv  3 - SD
+http://xsrv.me:80/28agos/panzer.32/24628
+#EXTINF:-1,SporTv 3 - HD
+http://xsrv.me:80/28agos/panzer.32/24625
+
+#EXTINF:-1,Warner Channel - SD
+http://xsrv.me:80/28agos/panzer.32/24952
+
+
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco²
+http://xsrv.me:80/28agos/panzer.32/54641
+
+
+#EXTINF:-1,[24H] Chaves²
+http://xsrv.me:80/28agos/panzer.32/54414
+
+
+#EXTINF:-1,Jovem Pan News - HD
+http://xsrv.me:80/28agos/panzer.32/121351
+
+#EXTINF:-1,AMC - [H.265]
+http://xsrv.me:80/28agos/panzer.32/33825
+
+
+
+#EXTINF:-1,Combate - [H.265]
+http://xsrv.me:80/28agos/panzer.32/33837
+
+
+#EXTINF:-1,BBB 22 - MOSAICO HD
+http://xsrv.me:80/28agos/panzer.32/134967
+#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1
+http://xsrv.me:80/28agos/panzer.32/94812
+#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1²
+http://xsrv.me:80/28agos/panzer.32/94858
+#EXTINF:-1,BBB 22 - CAM 3
+http://xsrv.me:80/28agos/panzer.32/94859
+#EXTINF:-1,BBB 22 - CAM 4
+http://xsrv.me:80/28agos/panzer.32/94860
+#EXTINF:-1,BBB 22 - CAM 5
+http://xsrv.me:80/28agos/panzer.32/94861
+#EXTINF:-1,BBB 22 - CAM 6
+http://xsrv.me:80/28agos/panzer.32/94862
+#EXTINF:-1,BBB 22 - CAM 7
+http://xsrv.me:80/28agos/panzer.32/94863
+#EXTINF:-1,BBB 22 - CAM 8
+http://xsrv.me:80/28agos/panzer.32/94864
+#EXTINF:-1,BBB 22 - CAM 9
+http://xsrv.me:80/28agos/panzer.32/94865
+#EXTINF:-1,BBB 22 - CAM 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
