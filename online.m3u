@@ -4,10 +4,26 @@ http://dns.icuto.me:8080/live/7162198033/6904321285/415637.ts?
 #EXTINF:-1,AMC SD
 http://dns.icuto.me:8080/7162198033/6904321285/382708
 
+#EXTINF:-1,[24H] JASPION
+http://dns.icuto.me:8080/7162198033/6904321285/415637
+
+#EXTINF:-1,[24H] JIRAYA
+http://dns.icuto.me:8080/7162198033/6904321285/370655
+
+#EXTINF:-1,[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX
+http://dns.icuto.me:8080/7162198033/6904321285/370659
+#EXTINF:-1,[24H] CHAPOLIN CANAL 2
+http://dns.icuto.me:8080/7162198033/6904321285/370726
+#EXTINF:-1,[24H] Chaves
+http://dns.icuto.me:8080/7162198033/6904321285/401054
+
 
 -------------------------------------------------------------------------------------------
 #EXTINF:-1,jaspion 24
 http://10gbps.tech:8080/Francisco1/123456/528435
+
+http://dns.icuto.me:8080/7162198033/6904321285/415637
+
 
 #EXTINF:-1,[24H] Jaspion
 http://xsrv.me:80/00h6705k/u0ah8cw8/93726
