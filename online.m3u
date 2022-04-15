@@ -1,477 +1,214 @@
-#EXTINF:-1,teste do cara jas
-http://dns.icuto.me:8080/live/7162198033/6904321285/415637.ts?
-
-#EXTINF:-1,AMC SD
-http://dns.icuto.me:8080/7162198033/6904321285/382708
-
-#EXTINF:-1,[24H] JASPION
-http://dns.icuto.me:8080/7162198033/6904321285/415637
-
-#EXTINF:-1,[24H] JIRAYA
-http://dns.icuto.me:8080/7162198033/6904321285/370655
-
-#EXTINF:-1,[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX
-http://dns.icuto.me:8080/7162198033/6904321285/370659
-#EXTINF:-1,[24H] CHAPOLIN CANAL 2
-http://dns.icuto.me:8080/7162198033/6904321285/370726
-#EXTINF:-1,[24H] Chaves
-http://dns.icuto.me:8080/7162198033/6904321285/401054
-
-
 -------------------------------------------------------------------------------------------
-#EXTINF:-1,jaspion 24
-http://10gbps.tech:8080/Francisco1/123456/528435
 
-http://dns.icuto.me:8080/7162198033/6904321285/415637
-
-
-#EXTINF:-1,[24H] Jaspion
-http://xsrv.me:80/00h6705k/u0ah8cw8/93726
-
-#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
-http://srv.tvprodigital.net:80/renata/renata/34909
-
-
-
-#EXTINF:-1,24Hrs: OS CAVALEIROS DO ZODIACO
-http://10gbps.tech:8080/01020304/01020304/528311
-
-
-
-#EXTINF:-1,24Hrs: JASPION
-http://10gbps.tech:8080/01020304/01020304/528435
-
-
-#EXTINF:-1,24Hrs: JASPION
-http://10gbps.tech:8080/familia2022/2022familia/528435
-
-
-#EXTINF:-1,24Hrs: OS CAVALEIROS DO ZODIACO
-http://10gbps.tech:8080/familia2022/2022familia/528311
-
-
-
-
-
-
-#EXTINF:-1,CAMPEONATO CARIOCA 2022 HD 01
-http://srv.tvprodigital.net:80/renata/renata/103736
-#EXTINF:-1,CAMPEONATO CARIOCA 2022 Jogo 01¹
-http://srv.tvprodigital.net:80/renata/renata/103737
-#EXTINF:-1,CAMPEONATO CARIOCA 2022 HD 02
-http://srv.tvprodigital.net:80/renata/renata/103739
-#EXTINF:-1,CAMPEONATO CARIOCA 2022 Jogo 02¹
-http://srv.tvprodigital.net:80/renata/renata/10373
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Guia de Programação Esportes
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="expira 10 de maio" group-title="expira 10 de maio",Guia de Programação Esportes
 http://canaishd.servidor.tv:8080/dani123/123dani/102693
 
-
-
+#EXTINF:-1,Guia de Programação Esportes
 http://show.servidor.tv:8080/dani123/123dani/102693
 
+#EXTINF:-1,AMC HD 1
+http://show.servidor.tv:8080/dani123/123dani/1498
+
+#EXTINF:-1,AMC HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/1498
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Rede TV HD
-http://canaishd.servidor.tv:8080/dani123/123dani/136
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Globo RJ HD
-http://canaishd.servidor.tv:8080/dani123/123dani/1504
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Band SP HD
-http://canaishd.servidor.tv:8080/dani123/123dani/489
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Record RJ HD
-http://canaishd.servidor.tv:8080/dani123/123dani/29780
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",MEGAPIX HD
+#EXTINF:-1,Megapix HD 1
 http://canaishd.servidor.tv:8080/dani123/123dani/1454
 
+#EXTINF:-1,Megapix HD 2
+http://show.servidor.tv:8080/dani123/123dani/1454
 
+#EXTINF:-1,Cinemax HD 1
+http://show.servidor.tv:8080/dani123/123dani/1490
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",Cinemax
+#EXTINF:-1,Cinemax HD 2
 http://canaishd.servidor.tv:8080/dani123/123dani/1490
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",AMC 
-http://canaishd.servidor.tv:8080/dani123/123dani/1498
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",SPACE
+#EXTINF:-1,Space HD 1
+http://show.servidor.tv:8080/dani123/123dani/1454
+
+#EXTINF:-1,Space HD 2
 http://canaishd.servidor.tv:8080/dani123/123dani/1445
 
+#EXTINF:-1,CNN Brasil HD
+http://show.servidor.tv:8080/dani123/123dani/21417
 
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",COMBATE - HD
-http://canaishd.servidor.tv:8080/dani123/123dani/1489
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",PREMIERE CLUBES - HD
-http://canaishd.servidor.tv:8080/dani123/123dani/1447
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="AAAA" group-title="AAAA",CNN BRASIL
+#EXTINF:-1,CNN Brasil HD
 http://canaishd.servidor.tv:8080/dani123/123dani/21417
 
 
+#EXTINF:-1,Band News HD 1
+http://show.servidor.tv:8080/dani123/123dani/1494
 
 
-#EXTINF:-1,Band News HD
+#EXTINF:-1,Band News HD 2
 http://canaishd.servidor.tv:8080/dani123/123dani/1494
 
-#EXTINF:-1,Globo News HD
-http://canaishd.servidor.tv:8080/dani123/123dani/1468
 
-#EXTINF:-1,JovenPan News HD+
-http://canaishd.servidor.tv:8080/dani123/123dani/64547
+#EXTINF:-1,Record News HD 1
+http://show.servidor.tv:8080/dani123/123dani/1513
 
 
-#EXTINF:-1,Record News HD
+#EXTINF:-1,Record News HD 2
 http://canaishd.servidor.tv:8080/dani123/123dani/1513
 
 
-http://canaishd.servidor.tv:8080/dani123/123dani/99978
-#EXTINF:-1,|PT| Eurosport 1 HD
 
+#EXTINF:-1,Globo News HD 1
+http://show.servidor.tv:8080/dani123/123dani/1468
 
+#EXTINF:-1,Globo News HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/1468
 
-#EXTINF:-1,|USA| Fox News HD
-http://canaishd.servidor.tv:8080/dani123/123dani/99947
 
 
+#EXTINF:-1,JovenPan News HD+ 1
+http://show.servidor.tv:8080/dani123/123dani/64547
 
-#EXTINF:-1,|PT| CNN Portugal HD
-http://canaishd.servidor.tv:8080/dani123/123dani/100011
 
+#EXTINF:-1,JovenPan News HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/64547
 
-#EXTINF:-1,|PT| SIC Notícias HD
-http://canaishd.servidor.tv:8080/dani123/123dani/100010
 
 
+#EXTINF:-1,Combate HD 1
+http://show.servidor.tv:8080/dani123/123dani/1489
 
 
+#EXTINF:-1,Combate HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/1489
 
 
 
+#EXTINF:-1,Band SP HD 1
+http://show.servidor.tv:8080/dani123/123dani/489
 
-http://canaishd.servidor.tv:8080/dani123/123dani/360
-#EXTINF:-1,BBB 2022 Casa 1 HD
 
+#EXTINF:-1,Band SP HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/489
 
 
 
+#EXTINF:-1,Globo RJ HD 1
+http://show.servidor.tv:8080/dani123/123dani/1504
 
-----------------------------------------------------------------------------------------FFFFFFFFF
 
+#EXTINF:-1,Globo RJ HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/1504
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="22/ABRIL" group-title="22/ABRIL",TV Camara HD
-http://10gbps.tech:8080/01020304/01020304/193
 
+#EXTINF:-1,Record RJ HD 1
+http://show.servidor.tv:8080/dani123/123dani/29780
 
-#EXTINF:-1,TV CAMARA SD
-http://10gbps.tech:8080/01020304/01020304/192
-#EXTINF:-1,TV CAMARA HD
-http://10gbps.tech:8080/01020304/01020304/193
 
+#EXTINF:-1,Record RJ HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/29780
 
-#EXTINF:-1,TV SENADO SD
-http://10gbps.tech:8080/01020304/01020304/213
-#EXTINF:-1,TV SENADO HD
-http://10gbps.tech:8080/01020304/01020304/214
+#EXTINF:-1,Premiere Clubes HD + 1
+http://canaishd.servidor.tv:8080/dani123/123dani/159
 
 
-#EXTINF:-1,CINE TERROR
-http://10gbps.tech:8080/01020304/01020304/40292
+#EXTINF:-1,Premiere Clubes HD + 2
+http://show.servidor.tv:8080/dani123/123dani/159
 
 
+#EXTINF:-1,Premiere 2 HD+ 1
+http://show.servidor.tv:8080/dani123/123dani/172
 
-#EXTINF:-1,TELECINE ACTION SD
-http://10gbps.tech:8080/01020304/01020304/179381
-#EXTINF:-1,TELECINE ACTION HD
-http://10gbps.tech:8080/01020304/01020304/179382
 
-#EXTINF:-1,TELECINE CULT SD
-http://10gbps.tech:8080/01020304/01020304/179387
-#EXTINF:-1,TELECINE CULT HD
-http://10gbps.tech:8080/01020304/01020304/179388
-0
-#EXTINF:-1,TELECINE FUN SD
-http://10gbps.tech:8080/01020304/01020304/179393
-#EXTINF:-1,TELECINE FUN HD
-http://10gbps.tech:8080/01020304/01020304/179394
+#EXTINF:-1,Premiere 2 HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/172
 
-#EXTINF:-1,TELECINE PIPOCA SD
-http://10gbps.tech:8080/01020304/01020304/179399
-#EXTINF:-1,TELECINE PIPOCA HD
-http://10gbps.tech:8080/01020304/01020304/179400
 
-#EXTINF:-1,TELECINE PREMIUM SD
-http://10gbps.tech:8080/01020304/01020304/179405
-#EXTINF:-1,TELECINE PREMIUM HD
-http://10gbps.tech:8080/01020304/01020304/179406
+#EXTINF:-1,Premiere 3 HD+ 1
+http://show.servidor.tv:8080/dani123/123dani/170
 
-#EXTINF:-1,TELECINE TOUCH SD
-http://10gbps.tech:8080/01020304/01020304/179411
-#EXTINF:-1,TELECINE TOUCH HD
-http://10gbps.tech:8080/01020304/01020304/179412
-#EXTINF:-1,TELECINE TOUCH FHD
-http://10gbps.tech:8080/01020304/01020304/179414
-#EXTINF:-1,A&E SD
-http://10gbps.tech:8080/01020304/01020304/179415
-#EXTINF:-1,A&E HD
-http://10gbps.tech:8080/01020304/01020304/179418
-#EXTINF:-1,A&E FHD
-http://10gbps.tech:8080/01020304/01020304/179420
-#EXTINF:-1,AMC SD
-http://10gbps.tech:8080/01020304/01020304/179421
-#EXTINF:-1,AMC HD
-http://10gbps.tech:8080/01020304/01020304/179424
 
-#EXTINF:-1,ARTE 1 SD
-http://10gbps.tech:8080/01020304/01020304/179427
-#EXTINF:-1,ARTE 1 HD
-http://10gbps.tech:8080/01020304/01020304/179431
-2
-#EXTINF:-1,AXN SD
-http://10gbps.tech:8080/01020304/01020304/179433
-#EXTINF:-1,AXN HD
-http://10gbps.tech:8080/01020304/01020304/179436
+#EXTINF:-1,Premiere 3 HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/170
 
-#EXTINF:-1,CINEMAX SD
-http://10gbps.tech:8080/01020304/01020304/179439
-#EXTINF:-1,CINEMAX HD
 
+#EXTINF:-1,Premiere 4 HD+ 1
+http://show.servidor.tv:8080/dani123/123dani/168
 
-#EXTINF:-1,FX SD
-http://10gbps.tech:8080/01020304/01020304/179451
-#EXTINF:-1,FX HD
-http://10gbps.tech:8080/01020304/01020304/179453
 
-#EXTINF:-1,MEGAPIX SD
-http://10gbps.tech:8080/01020304/01020304/179457
-#EXTINF:-1,MEGAPIX HD
-http://10gbps.tech:8080/01020304/01020304/179459
 
+#EXTINF:-1,Premiere 4 HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/168
 
-#EXTINF:-1,SPACE SD
-http://10gbps.tech:8080/01020304/01020304/179473
-#EXTINF:-1,SPACE HD
-http://10gbps.tech:8080/01020304/01020304/179476
 
 
+#EXTINF:-1,Premiere 5 HD+1
+http://show.servidor.tv:8080/dani123/123dani/166
 
 
+#EXTINF:-1,Premiere 5 HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/166
 
-#EXTINF:-1,WARNNER SD
-http://10gbps.tech:8080/01020304/01020304/179543
-#EXTINF:-1,WARNNER HD
-http://10gbps.tech:8080/01020304/01020304/179546
 
 
+#EXTINF:-1,Premiere 6 HD+1
+http://show.servidor.tv:8080/dani123/123dani/164
 
 
-#EXTINF:-1,COMBATE SD
-http://10gbps.tech:8080/01020304/01020304/179637
-#EXTINF:-1,COMBATE HD
-http://10gbps.tech:8080/01020304/01020304/179640
+#EXTINF:-1,Premiere 6 HD+2
+http://canaishd.servidor.tv:8080/dani123/123dani/164
 
-#EXTINF:-1,SPORTV SD
-http://10gbps.tech:8080/01020304/01020304/179679
-#EXTINF:-1,SPORTV HD
-http://10gbps.tech:8080/01020304/01020304/179682
 
-#EXTINF:-1,SPORTV 2 SD
-http://10gbps.tech:8080/01020304/01020304/179687
-#EXTINF:-1,SPORTV 2 HD
-http://10gbps.tech:8080/01020304/01020304/179688
 
-#EXTINF:-1,SPORTV 3 SD
-http://10gbps.tech:8080/01020304/01020304/179691
-#EXTINF:-1,SPORTV 3 HD
-http://10gbps.tech:8080/01020304/01020304/179694
+#EXTINF:-1,Premiere 7 HD+ 1
+http://show.servidor.tv:8080/dani123/123dani/162
 
-#EXTINF:-1,PREMIERE CLUBES SD
-http://10gbps.tech:8080/01020304/01020304/179698
-#EXTINF:-1,PREMIERE CLUBES HD
-http://10gbps.tech:8080/01020304/01020304/179701
-
-#EXTINF:-1,PREMIERE 2 SD
-http://10gbps.tech:8080/01020304/01020304/179704
-#EXTINF:-1,PREMIERE 2 HD
-http://10gbps.tech:8080/01020304/01020304/179707
-
-#EXTINF:-1,PREMIERE 3 SD
-http://10gbps.tech:8080/01020304/01020304/179710
-#EXTINF:-1,PREMIERE 3 HD
-http://10gbps.tech:8080/01020304/01020304/179713
-
-#EXTINF:-1,PREMIERE 4 SD
-http://10gbps.tech:8080/01020304/01020304/179718
-#EXTINF:-1,PREMIERE 4 HD
-http://10gbps.tech:8080/01020304/01020304/179719
 
-#EXTINF:-1,PREMIERE 5 SD
-http://10gbps.tech:8080/01020304/01020304/179724
-#EXTINF:-1,PREMIERE 5 HD
-http://10gbps.tech:8080/01020304/01020304/179725
 
-#EXTINF:-1,PREMIERE 6 SD
-http://10gbps.tech:8080/01020304/01020304/179730
-#EXTINF:-1,PREMIERE 6 HD
-http://10gbps.tech:8080/01020304/01020304/179731
-
-#EXTINF:-1,PREMIERE 7 SD
-http://10gbps.tech:8080/01020304/01020304/179734
-#EXTINF:-1,PREMIERE 7 HD
-http://10gbps.tech:8080/01020304/01020304/179736
-#EXTINF:-1,RECORD SP SD
-http://10gbps.tech:8080/01020304/01020304/180016
-#EXTINF:-1,RECORD SP HD
-http://10gbps.tech:8080/01020304/01020304/180017
-
-#EXTINF:-1,RECORD RJ SD
-http://10gbps.tech:8080/01020304/01020304/180019
-#EXTINF:-1,RECORD RJ HD
-http://10gbps.tech:8080/01020304/01020304/180020
-
-
-
-#EXTINF:-1,BAND SP SD
-http://10gbps.tech:8080/01020304/01020304/180074
-#EXTINF:-1,BAND SP HD
-http://10gbps.tech:8080/01020304/01020304/180075
-
-#EXTINF:-1,BAND RJ SD
-http://10gbps.tech:8080/01020304/01020304/180077
-#EXTINF:-1,BAND RJ HD
-
-#EXTINF:-1,BAND NEWS SD
-http://10gbps.tech:8080/01020304/01020304/180086
-#EXTINF:-1,BAND NEWS HD
-http://10gbps.tech:8080/01020304/01020304/180089
-
-#EXTINF:-1,GLOBO NEWS SD
-http://10gbps.tech:8080/01020304/01020304/180098
-#EXTINF:-1,GLOBO NEWS HD
+#EXTINF:-1,Premiere 7 HD+ 2
+http://canaishd.servidor.tv:8080/dani123/123dani/162
 
-#EXTINF:-1,RECORD NEWS SD
-http://10gbps.tech:8080/01020304/01020304/180104
-#EXTINF:-1,RECORD NEWS HD
-http://10gbps.tech:8080/01020304/01020304/180107
 
+EXTINF:-1,Premiere 8 HD 1
+http://show.servidor.tv:8080/dani123/123dani/632079
 
 
+EXTINF:-1,Premiere 8 HD 2
+http://canaishd.servidor.tv:8080/dani123/123dani/632079
 
 
-#EXTINF:-1,MTV SD
-http://10gbps.tech:8080/01020304/01020304/180235
-#EXTINF:-1,MTV HD
-http://10gbps.tech:8080/01020304/01020304/180238
 
-#EXTINF:-1,MULTISHOW SD
-http://10gbps.tech:8080/01020304/01020304/180241
-#EXTINF:-1,MULTISHOW HD
-http://10gbps.tech:8080/01020304/01020304/180244
-#EXTINF:-1,OFF SD
-http://10gbps.tech:8080/01020304/01020304/180246
-#EXTINF:-1,OFF HD
+#EXTINF:-1,BBB 2022 Mosaico 1
+http://show.servidor.tv:8080/dani123/123dani/100013
 
-#EXTINF:-1,CINE SKY 01
-http://10gbps.tech:8080/01020304/01020304/180309
-#EXTINF:-1,CINE SKY 02
-http://10gbps.tech:8080/01020304/01020304/180310
-#EXTINF:-1,CINE SKY 03
-http://10gbps.tech:8080/01020304/01020304/180311
-#EXTINF:-1,CINE SKY 04
-http://10gbps.tech:8080/01020304/01020304/180312
-#EXTINF:-1,CINE SKY 05
-http://10gbps.tech:8080/01020304/01020304/180313
-#EXTINF:-1,CINE SKY 06
-http://10gbps.tech:8080/01020304/01020304/180314
-#EXTINF:-1,CINE SKY 07
-http://10gbps.tech:8080/01020304/01020304/180315
-#EXTINF:-1,CINE SKY 08
-http://10gbps.tech:8080/01020304/01020304/180316
-#EXTINF:-1,CINE SKY 09
-http://10gbps.tech:8080/01020304/01020304/180317
-#EXTINF:-1,BAND RS SD
-http://10gbps.tech:8080/01020304/01020304/180321
-#EXTINF:-1,BAND RS HD
-http://10gbps.tech:8080/01020304/01020304/180322
-#EXTINF:-1,CINE SKY 10
-http://10gbps.tech:8080/01020304/01020304/182359
+#EXTINF:-1,BBB 2022 Mosaico 2
+http://canaishd.servidor.tv:8080/dani123/123dani/100013
 
 
 
-#EXTINF:-1,JOVEN PAM NEWS SD
-http://10gbps.tech:8080/01020304/01020304/428696
-#EXTINF:-1,JOVEN PAN NEWS HD
-http://10gbps.tech:8080/01020304/01020304/428697
+#EXTINF:-1,BBB 2022 Casa 1 HD 1
+http://show.servidor.tv:8080/dani123/123dani/100024
 
 
-#EXTINF:-1,GLOBO RJ  SD
-http://10gbps.tech:8080/01020304/01020304/431528
-#EXTINF:-1,GLOBO RJ  HD
+#EXTINF:-1,BBB 2022 Casa 1 HD2
+http://canaishd.servidor.tv:8080/dani123/123dani/100024
 
 
-#EXTINF:-1,MOSAICO
-http://10gbps.tech:8080/01020304/01020304/517905
-#EXTINF:-1,CAM 1
-http://10gbps.tech:8080/01020304/01020304/517906
-#EXTINF:-1,CAM 2
-http://10gbps.tech:8080/01020304/01020304/517908
-#EXTINF:-1,CAM 3
-http://10gbps.tech:8080/01020304/01020304/517909
-#EXTINF:-1,CAM 4
-http://10gbps.tech:8080/01020304/01020304/517910
-#EXTINF:-1,CAM 5
-http://10gbps.tech:8080/01020304/01020304/517911
-#EXTINF:-1,CAM 6
-http://10gbps.tech:8080/01020304/01020304/517912
-#EXTINF:-1,CAM 7
-http://10gbps.tech:8080/01020304/01020304/517913
-#EXTINF:-1,CAM 8
-http://10gbps.tech:8080/01020304/01020304/517914
-#EXTINF:-1,CAM 9
-http://10gbps.tech:8080/01020304/01020304/517915
-#EXTINF:-1,CAM 10
-http://10gbps.tech:8080/01020304/01020304/517916
-#EXTINF:-1,CAM 11
-http://10gbps.tech:8080/01020304/01020304/517917
 
+#EXTINF:-1,BBB 2022 Casa 2 HD
+http://show.servidor.tv:8080/dani123/123dani/100023
 
-#EXTINF:-1,COPA CARIOCA 1
-http://10gbps.tech:8080/01020304/01020304/518050
-#EXTINF:-1,COPA CARIOCA 2
-http://10gbps.tech:8080/01020304/01020304/518051
+#EXTINF:-1,BBB 2022 Casa 2 HD
+http://canaishd.servidor.tv:8080/dani123/123dani/100023
 
 
 
+#EXTINF:-1,Os Cavaleiros do Zodíaco 1
+http://show.servidor.tv:8080/dani123/123dani/33100
 
 
-
-#EXTINF:-1,24Hrs: OS CAVALEIROS DO ZODIACO
-http://10gbps.tech:8080/01020304/01020304/528311
-
-
-
-
-
-
-
-#EXTINF:-1,24Hrs: JASPION
-http://10gbps.tech:8080/01020304/01020304/528435
-
-
-
+#EXTINF:-1,Os Cavaleiros do Zodíaco 2
+http://canaishd.servidor.tv:8080/dani123/123dani/33100
 
 
 
@@ -484,15 +221,11 @@ http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
 
-
-
-
-
 ---------------------------------------------------------------------------------------------BBBBBBBBBBB
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022",MEGAPIX HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="expira 11 de maio" group-title="expira 11 de maio",MEGAPIX HD
 http://cloud-nany.cc:80/onofre10/10onofre/7990
 
 
@@ -519,19 +252,6 @@ http://cloud-nany.cc:80/onofre10/10onofre/8118
 http://cloud-nany.cc:80/onofre10/10onofre/7955
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 01 PPV
-http://cloud-nany.cc:80/onofre10/10onofre/144191
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 03 PPV
-http://cloud-nany.cc:80/onofre10/10onofre/144190
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 02 PPV
-http://cloud-nany.cc:80/onofre10/10onofre/144189
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 04 PPV
-http://cloud-nany.cc:80/onofre10/10onofre/144220
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",CAMPEONATO CARIOCA HD 05 PPV
-http://cloud-nany.cc:80/onofre10/10onofre/144219
-
-
-
 #EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022",CNN BRASIL
 http://cloud-nany.cc:80/onofre10/10onofre/59729
 
@@ -540,11 +260,6 @@ http://cloud-nany.cc:80/onofre10/10onofre/59729
 http://cloud-nany.cc:80/onofre10/10onofre/142897
 
 
-
-#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1
-http://cloud-nany.cc:80/onofre10/10onofre/142892
-#EXTINF:-1,BBB 22 -ACOMPANHE A CASA 2
-http://cloud-nany.cc:80/onofre10/10onofre/142891
 
 #EXTINF:-1,BBB 1 HD
 http://cloud-nany.cc:80/onofre10/10onofre/142894
@@ -578,7 +293,7 @@ http://cloud-nany.cc:80/onofre10/10onofre/8136
 
 
 
--------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------llllllllll
 
 
 
@@ -637,18 +352,6 @@ http://canaishd.servidor.tv:8080/Leni123/123leni/64548
 
 #EXTINF:-1,Record News HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1513
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -786,102 +489,15 @@ http://50.7.34.155:2201/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8?token=fwBl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",MEGAPIX HD
-http://solutionplay.xyz:8080/46618872/30948201/27193
-
-
-
-46618872
-
-
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TV CÂMARA
-http://solutionplay.xyz:8080/05957714/62207618/27363
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",BAND SP rj
-http://solutionplay.xyz:8080/05957714/62207618/27351
-
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SONY HD
-http://solutionplay.xyz:8080/05957714/62207618/27153
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",Cinemax
-http://solutionplay.xyz:8080/05957714/62207618/27129
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SPACE HD
-http://solutionplay.xyz:8080/05957714/62207618/27159
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/05957714/62207618/27709
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",A&E HD
-http://solutionplay.xyz:8080/05957714/62207618/27101
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",TELECINE FUN FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6034
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",RECORD NEWS FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6104
-
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/10987658/5875
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",SPORTV 2 HD
-http://solutionplay.xyz:8080/techruthes/10987658/20886
-
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="lista 3333" group-title="unilimited",EVANGELIZAR HD
-http://solutionplay.xyz:8080/techruthes/10987658/5921
-
-
-
 ====================================================================================
 
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="DDDD" group-title="DDDD",Rede TV HD
 http://show.servidor.tv:8080/Eliane123/123eliane/136
+
+http://canaishd.servidor.tv:8080/Eliane123/123eliane/136
+
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="DDDD" group-title="DDDD",Globo RJ HD
@@ -1223,288 +839,13 @@ http://10gbps.tech:8080/familia2022/2022familia/528311
  http://solutionplay.xyz:8080/get.php?username=techruthes&password=10987658&type=m3
 
 
-===============================================================================================
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="02/05/2022" group-title="02/05/2022",[24H] Jaspion
-http://xsrv.me:8080/28agos/panzer.32/93726
-
-#EXTINF:-1,[24H] Jiraiya
-http://xsrv.me:80/28agos/panzer.32/92453
-
-
-#EXTINF:-1,AMC - SD
-http://xsrv.me:80/28agos/panzer.32/24809
-#EXTINF:-1,AMC - HD
-http://xsrv.me:80/28agos/panzer.32/24807
-
-#EXTINF:-1,Band SP - São Paulo [SD]
-http://xsrv.me:80/28agos/panzer.32/24548
-
-#EXTINF:-1,Band News - SD
-http://xsrv.me:80/28agos/panzer.32/24554
-
-
-#EXTINF:-1,Cine Pipoca - 03
-http://xsrv.me:80/28agos/panzer.32/86132
-#EXTINF:-1,Cine Pipoca - 04
-http://xsrv.me:80/28agos/panzer.32/86133
-#EXTINF:-1,Cine Pipoca - 05
-http://xsrv.me:80/28agos/panzer.32/86134
-#EXTINF:-1,Cine Pipoca - 06
-http://xsrv.me:80/28agos/panzer.32/86135
-#EXTINF:-1,Cine Pipoca - 07
-http://xsrv.me:80/28agos/panzer.32/86136
-#EXTINF:-1,Cine Pipoca - 08
-http://xsrv.me:80/28agos/panzer.32/86137
-#EXTINF:-1,Cine Pipoca - 09
-http://xsrv.me:80/28agos/panzer.32/86138
-#EXTINF:-1,Cine Pipoca - 10
-http://xsrv.me:80/28agos/panzer.32/86139
-#EXTINF:-1,Cine Pipoca - 11
-http://xsrv.me:80/28agos/panzer.32/86140
-#EXTINF:-1,Cine Pipoca - 12
-http://xsrv.me:80/28agos/panzer.32/86141
-#EXTINF:-1,Cine Pipoca - 13
-http://xsrv.me:80/28agos/panzer.32/86142
-#EXTINF:-1,Cine Pipoca - 14
-http://xsrv.me:80/28agos/panzer.32/86143
-#EXTINF:-1,Cine Sky - 01
-http://xsrv.me:80/28agos/panzer.32/59512
-#EXTINF:-1,Cine Sky - 02
-http://xsrv.me:80/28agos/panzer.32/59513
-#EXTINF:-1,Cine Sky - 03
-http://xsrv.me:80/28agos/panzer.32/59514
-#EXTINF:-1,Cine Sky - 04
-http://xsrv.me:80/28agos/panzer.32/59515
-#EXTINF:-1,Cine Sky - 05
-http://xsrv.me:80/28agos/panzer.32/59516
-#EXTINF:-1,Cine Sky - 06
-http://xsrv.me:80/28agos/panzer.32/81504
-#EXTINF:-1,Cine Sky - 07
-http://xsrv.me:80/28agos/panzer.32/81505
-#EXTINF:-1,Cine Sky - 08
-http://xsrv.me:80/28agos/panzer.32/81506
-#EXTINF:-1,Cine Sky - 09
-http://xsrv.me:80/28agos/panzer.32/81507
-#EXTINF:-1,Cine Sky - 10
-http://xsrv.me:80/28agos/panzer.32/81508
-#EXTINF:-1,Cinemax - SD
-http://xsrv.me:80/28agos/panzer.32/24828
-
-
-#EXTINF:-1,CNN Brasil - SD
-http://xsrv.me:80/28agos/panzer.32/30277
-
-
-#EXTINF:-1,Globo RJ - Rio de Janeiro SD
-http://xsrv.me:80/28agos/panzer.32/30676
-
-
-#EXTINF:-1,MTV - SD
-http://xsrv.me:80/28agos/panzer.32/25152
-
-
-#EXTINF:-1,Multishow - SD
-http://xsrv.me:80/28agos/panzer.32/25179
-
-
-#EXTINF:-1,Premiere - Clubes SD
-http://xsrv.me:80/28agos/panzer.32/24677
-#EXTINF:-1,Premiere - Clubes HD
-http://xsrv.me:80/28agos/panzer.32/24674
-#EXTINF:-1,Premiere - Clubes HD²  [Alter]
-http://xsrv.me:80/28agos/panzer.32/95729
-#EXTINF:-1,Premiere - Clubes HD³  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120127
-#EXTINF:-1,Premiere - Clubes FHD
-http://xsrv.me:80/28agos/panzer.32/24671
-#EXTINF:-1,Premiere - 2 SD
-http://xsrv.me:80/28agos/panzer.32/24682
-#EXTINF:-1,Premiere - 2 HD
-http://xsrv.me:80/28agos/panzer.32/24679
-#EXTINF:-1,Premiere - 02 HD²  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120128
-#EXTINF:-1,Premiere - 02 HD³  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120129
-#EXTINF:-1,Premiere - 2 FHD
-http://xsrv.me:80/28agos/panzer.32/34645
-#EXTINF:-1,Premiere - 3 SD
-http://xsrv.me:80/28agos/panzer.32/24692
-#EXTINF:-1,Premiere - 3 HD
-http://xsrv.me:80/28agos/panzer.32/24689
-#EXTINF:-1,Premiere - 03 HD²  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120130
-#EXTINF:-1,Premiere - 03 HD³  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120131
-#EXTINF:-1,Premiere - 3 FHD
-http://xsrv.me:80/28agos/panzer.32/24686
-#EXTINF:-1,Premiere - 4 SD
-http://xsrv.me:80/28agos/panzer.32/24700
-#EXTINF:-1,Premiere - 4 HD
-http://xsrv.me:80/28agos/panzer.32/24697
-#EXTINF:-1,Premiere - 04 HD²  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120132
-#EXTINF:-1,Premiere - 04 HD³  [Alter]
-http://xsrv.me:80/28agos/panzer.32/120133
-#EXTINF:-1,Premiere - 4 FHD
-http://xsrv.me:80/28agos/panzer.32/24694
-#EXTINF:-1,Premiere - 5 SD
-http://xsrv.me:80/28agos/panzer.32/24708
-#EXTINF:-1,Premiere - 5 HD
-http://xsrv.me:80/28agos/panzer.32/24706
-#EXTINF:-1,Premiere - 6 SD
-http://xsrv.me:80/28agos/panzer.32/24715
-#EXTINF:-1,Premiere - 6 HD
-http://xsrv.me:80/28agos/panzer.32/24713
-#EXTINF:-1,Premiere - 7 SD
-http://xsrv.me:80/28agos/panzer.32/24721
-#EXTINF:-1,Premiere - 7 HD
-http://xsrv.me:80/28agos/panzer.32/24720
-#EXTINF:-1,Premiere - 8 - SD *
-http://xsrv.me:80/28agos/panzer.32/24724
-
-#EXTINF:-1,Record RJ - Rio de Janeiro [SD]
-http://xsrv.me:80/28agos/panzer.32/24511
-
-
-#EXTINF:-1,Space - SD
-http://xsrv.me:80/28agos/panzer.32/24906
-
-
-#EXTINF:-1,SporTv - SD
-http://xsrv.me:80/28agos/panzer.32/24613
-#EXTINF:-1,SporTv - HD
-http://xsrv.me:80/28agos/panzer.32/24610
-#EXTINF:-1,SporTv - FHD
-http://xsrv.me:80/28agos/panzer.32/24607
-#EXTINF:-1,SporTv 2 - SD
-http://xsrv.me:80/28agos/panzer.32/24620
-#EXTINF:-1,SporTv 2 - HD
-http://xsrv.me:80/28agos/panzer.32/24617
-#EXTINF:-1,SporTv 2 - FHD
-http://xsrv.me:80/28agos/panzer.32/24615
-#EXTINF:-1,SporTv  3 - SD
-http://xsrv.me:80/28agos/panzer.32/24628
-#EXTINF:-1,SporTv 3 - HD
-http://xsrv.me:80/28agos/panzer.32/24625
-
-#EXTINF:-1,Warner Channel - SD
-http://xsrv.me:80/28agos/panzer.32/24952
-
-
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco²
-http://xsrv.me:80/28agos/panzer.32/54641
-
-
-#EXTINF:-1,[24H] Chaves²
-http://xsrv.me:80/28agos/panzer.32/54414
-
-
-#EXTINF:-1,Jovem Pan News - HD
-http://xsrv.me:80/28agos/panzer.32/121351
-
-#EXTINF:-1,AMC - [H.265]
-http://xsrv.me:80/28agos/panzer.32/33825
+===================================================================================================uuuuuuuuuuuuuu
 
 
 
-#EXTINF:-1,Combate - [H.265]
-http://xsrv.me:80/28agos/panzer.32/33837
 
-
-#EXTINF:-1,BBB 22 - MOSAICO HD
-http://xsrv.me:80/28agos/panzer.32/134967
-#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1
-http://xsrv.me:80/28agos/panzer.32/94812
-#EXTINF:-1,BBB 22 - ACOMPANHE A CASA 1²
-http://xsrv.me:80/28agos/panzer.32/94858
-#EXTINF:-1,BBB 22 - CAM 3
-http://xsrv.me:80/28agos/panzer.32/94859
-#EXTINF:-1,BBB 22 - CAM 4
-http://xsrv.me:80/28agos/panzer.32/94860
-#EXTINF:-1,BBB 22 - CAM 5
-http://xsrv.me:80/28agos/panzer.32/94861
-#EXTINF:-1,BBB 22 - CAM 6
-http://xsrv.me:80/28agos/panzer.32/94862
-#EXTINF:-1,BBB 22 - CAM 7
-http://xsrv.me:80/28agos/panzer.32/94863
-#EXTINF:-1,BBB 22 - CAM 8
-http://xsrv.me:80/28agos/panzer.32/94864
-#EXTINF:-1,BBB 22 - CAM 9
-http://xsrv.me:80/28agos/panzer.32/94865
-#EXTINF:-1,BBB 22 - CAM 10
-
-
-===================================================================================================
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="30-11-2023" group-title="30-11-2023",RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16748
-
-#EXTINF:-1,ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16693
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16705
-#EXTINF:-1,COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16704
-#EXTINF:-1,Star Life
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16721
-#EXTINF:-1,ESPN Brasil HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16717
-#EXTINF:-1,CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16702
-#EXTINF:-1,Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16708
-#EXTINF:-1,SporTV HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16753
-#EXTINF:-1,Discovery World HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16712
-#EXTINF:-1,Space HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16750
-#EXTINF:-1,ID Investigao Discovery HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16736
-#EXTINF:-1,HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/31462
-#EXTINF:-1,Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16746
-#EXTINF:-1,TNT HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16760
-#EXTINF:-1,Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16711
-#EXTINF:-1,TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16761
-#EXTINF:-1,H2 HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16733
-#EXTINF:-1,AXN HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16695
-#EXTINF:-1,SBT SP HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16749
-#EXTINF:-1,STAR HITS 1 HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16722
-#EXTINF:-1,Globo SP HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16730
-#EXTINF:-1,Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16700
-#EXTINF:-1,MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/31279
-#EXTINF:-1,STAR HITS 2 HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16723
-#EXTINF:-1,Combate HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16703
-#EXTINF:-1,HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/31460
-#EXTINF:-1,HBO 1 HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/31465
-#EXTINF:-1,Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16756
-#EXTINF:-1,Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16758
-#EXTINF:-1,TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/31583
-#EXTINF:-1,Fox Sports 1 HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16725
-#EXTINF:-1,Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/287994016474/287994016474/16757
 
 
 
