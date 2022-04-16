@@ -1100,10 +1100,8 @@ http://200.4.96.59:8003/play/a02r/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner TV FHD"
+http://200.4.96.59:8003/play/a02r
 
 
 
