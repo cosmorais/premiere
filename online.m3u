@@ -19,7 +19,7 @@ http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="expira 11 de maio" group-title="11 ABRI-2022",MEGAPIX HD
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022",MEGAPIX HD
 http://cloud-nany.cc:80/onofre10/10onofre/7990
 
 
@@ -193,55 +193,10 @@ http://10gbps.tech:8080/familia2022/2022familia/180089
 
 ===================================================================================================uuuuuuuuuuuuuu
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="gratis" group-title="gratis",TV5
-http://200.4.96.59:8004/play/a0ed/index.m3u8
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="gratis" group-title="gratis",BAND NEWS
+BAND NEWS
 
 
-#EXTINF:-1, BR: Globo RJ FHD
-http://200.4.96.59:8002/play/a0fk/index.m3u8
-
-
-#EXTINF:-1,SBT RJ HD 
-http://200.4.96.59:8003/play/a03a/index.m3u8
-#EXTINF:-1,SBT RJ HD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
-
-#EXTINF:-1, TV Brasil HD
-http://200.4.96.59:8002/play/a0dm/index.m3u8
-#EXTINF:-1, TV Gazeta HD 
-http://200.4.96.59:8002/play/a0e4/index.m3u8
-#EXTINF:-1,TV Gazeta HD 
-http://200.4.96.59:8002/play/a0e2/index.m3u8
-#EXTINF:-1, Futura HD 
-http://200.4.96.59:8002/play/a0f7/index.m3u8
-#EXTINF:-1,Cultura HD
-http://200.4.96.59:8002/play/a0fl/index.m3u8
-
-#EXTINF:-1,Rede Gospel HD
-http://200.4.96.59:8002/play/a0e7/index.m3u8
-
-#EXTINF:-1, BAND NEWS
-http://200.4.96.59:8002/play/a0fa/index.m3u8
-
-
-
-
-
-
-
-
- 
-
-#EXTINF:-1,ANIMAL PLANET HD
-http://200.4.96.59:8002/play/a0fe/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1,MTV 00s HD
-http://200.4.96.59:8003/play/a03z/index.m3u8
 
 
 
