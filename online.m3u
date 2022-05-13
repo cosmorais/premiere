@@ -6,6 +6,23 @@ http://canaishd.servidor.tv:8080/dani123/123dani/102693
 #EXTINF:-1,Guia de Programação Esportes
 http://show.servidor.tv:8080/dani123/123dani/102693
 
+#EXTINF:-1,BANDRJ
+http://186.227.63.210:5000/live/BANDRJ/720p.m3u8
+
+
+#EXTINF:-1,SBTRJ
+http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
+
+#EXTINF:-1,GLOBORJ
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
+
+#EXTINF:-1,RECORDRJ
+http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
+
+
+
+
+
 
 #EXTINF:-1,sexy
 http://live.redtraffic.xyz/teen.m3u8?IMDSFULL
