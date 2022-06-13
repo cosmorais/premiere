@@ -113,6 +113,11 @@ http://show.servidor.tv:8080/Leni123/123leni/1498
 http://show.servidor.tv:8080/Leni123/123leni/1445
 
 
+#EXTINF:-1,Telecine Pipoca HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1435
+
+
+
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",COMBATE - HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1489
@@ -150,6 +155,82 @@ http://canaishd.servidor.tv:8080/Leni123/123leni/64548
 
 #EXTINF:-1,Record News HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1513
+
+
+#EXTINF:-1,TV Senado HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/22515
+
+#EXTINF:-1,TV Camara HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/22511
+
+#EXTINF:-1,CINE SKY 1
+http://canaishd.servidor.tv:8080/Leni123/123leni/33230
+#EXTINF:-1,CINE SKY 2
+http://canaishd.servidor.tv:8080/Leni123/123leni/33231
+#EXTINF:-1,CINE SKY 3
+http://canaishd.servidor.tv:8080/Leni123/123leni/33232
+#EXTINF:-1,CINE SKY 4
+http://canaishd.servidor.tv:8080/Leni123/123leni/33233
+#EXTINF:-1,CINE SKY 5
+http://canaishd.servidor.tv:8080/Leni123/123leni/33234
+#EXTINF:-1,CINE SKY 6
+http://canaishd.servidor.tv:8080/Leni123/123leni/33235
+#EXTINF:-1,CINE SKY 7
+http://canaishd.servidor.tv:8080/Leni123/123leni/33236
+#EXTINF:-1,CINE SKY 8
+http://canaishd.servidor.tv:8080/Leni123/123leni/63314
+#EXTINF:-1,CINE SKY 9
+http://canaishd.servidor.tv:8080/Leni123/123leni/63313
+#EXTINF:-1,CINE SKY 10
+http://canaishd.servidor.tv:8080/Leni123/123leni/63312
+#EXTINF:-1,CINE SKY 11
+http://canaishd.servidor.tv:8080/Leni123/123leni/63311
+#EXTINF:-1,CINE SKY 12
+http://canaishd.servidor.tv:8080/Leni123/123leni/63310
+#EXTINF:-1,CINE SKY 13
+http://canaishd.servidor.tv:8080/Leni123/123leni/63309
+#EXTINF:-1,CINE SKY 14
+http://canaishd.servidor.tv:8080/Leni123/123leni/63308
+#EXTINF:-1,CINE SKY 15
+http://canaishd.servidor.tv:8080/Leni123/123leni/63307
+
+#EXTINF:-1,Mosaico Premiere HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/63264
+
+
+
+
+#EXTINF:-1,Premiere 2 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1511
+
+#EXTINF:-1,Premiere 3 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1510
+
+#EXTINF:-1,Premiere 4 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1509
+
+#EXTINF:-1,Premiere 5 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1508
+
+#EXTINF:-1,Premiere 6 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1507
+
+#EXTINF:-1,Premiere 7 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1506
+
+#EXTINF:-1,Premiere 8 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/63207
+
+#EXTINF:-1,Premiere Clubes HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/1447
+
+
+
+
+
+
+
+
 
 
 
