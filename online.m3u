@@ -141,6 +141,26 @@ http://show.servidor.tv:8080/Leni123/123leni/21417
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",Band SP HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/489
 
+#EXTINF:-1,A Fazenda 14 CAM 09 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123288
+#EXTINF:-1,A Fazenda 14 CAM 08 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123287
+#EXTINF:-1,A Fazenda 14 CAM 07 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123286
+#EXTINF:-1,A Fazenda 14 CAM 06 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123285
+#EXTINF:-1,A Fazenda 14 CAM 05 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123284
+#EXTINF:-1,A Fazenda 14 CAM 04 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123283
+#EXTINF:-1,A Fazenda 14 CAM 03 HD
+http://canaishd.servidor.tv:8080/Leni123/123leni/123282
+#EXTINF:-1,A Fazenda 14 CAM 02 HD
+
+
+
+
+
 
 #EXTINF:-1,Band News HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1494
