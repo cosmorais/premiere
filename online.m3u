@@ -40,80 +40,36 @@ http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.m3u8
 http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.m3u8
 
 
--------------------------------------BBBBBBB
-
-
-
-EXTINF
-
-#EXTINF:-1,BBB 23  QUARTO DESERTO
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-#EXTINF:-1,BBB 23  QUARTO FUNDO DO MAR
-http://server100.online/bbb-mosaico/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=d289e1944c4ecf83731070b26dd76838ab861af0-fd341b288be5c8fee9906d7013aedfe7-1674227831-1674220631
-
-#EXTINF:-1,BBB 23  SALA
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-#EXTINF:-1,BBB 23 COSINHA
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-#EXTINF:-1,BBB 23 PISCINA
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-#EXTINF:-1,BBB 23  JARDIM
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-#EXTINF:-1,BBB 23 ACADEMIA
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-#EXTINF:-1,BBB 23 VARANDA
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
-
-
-
-
-#EXTINF:-1,BBB 23 
-
-
-
 ---------------------------------------------------------------------------------------------BBBBBBBBBBB
-
-
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022",MEGAPIX HD
 http://cloud-nany.cc:80/onofre10/10onofre/7990
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022"group-title="11 ABRI-2022",Cinemax
+#EXTINF:-5 ,Cinemax
 http://cloud-nany.cc:80/onofre10/10onofre/8120
 
 
-UUU
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",AMC 
+
+#EXTINF:-5 ,AMC 
 http://cloud-nany.cc:80/onofre10/10onofre/8147
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",SPACE
+#EXTINF:-5 ,SPACE
 http://cloud-nany.cc:80/onofre10/10onofre/7936
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="11 ABRI-2022" group-title="11 ABRI-2022 ",COMBATE - HD
+#EXTINF:-5 ,COMBATE - HD
 http://cloud-nany.cc:80/onofre10/10onofre/8118
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022 ",PREMIERE CLUBES - HD
+#EXTINF:-5 ,PREMIERE CLUBES - HD
 http://cloud-nany.cc:80/onofre10/10onofre/7955
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 11-03-2022 " group-title="11 ABRI-2022",CNN BRASIL
+#EXTINF:-5 ,CNN BRASIL
 http://cloud-nany.cc:80/onofre10/10onofre/59729
 
 
