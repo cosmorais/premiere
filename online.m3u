@@ -14,7 +14,7 @@ http://186.227.63.210:5000/live/BANDRJ/720p.m3u8
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 
 #EXTINF:-1,GLOBORJ
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
+http://server100.online/globo-rj-op2/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=b3a70a213f55113ba58793410cd12a182b6c9c7a-bedffb69c4f2ce85d8b2947512e36d4d-1674225988-1674218788
 
 #EXTINF:-1,RECORDRJ
 http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
