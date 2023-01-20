@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="111" group-title="02-10-2023",Globo RJ
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="02-10-2023" group-title="02-10-2023",Globo RJ
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
 03-28
