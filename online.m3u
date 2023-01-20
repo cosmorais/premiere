@@ -40,4 +40,52 @@ http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.m3u8
 http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.m3u8
 
 
+----------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name=" 3 " group-title="15/02/2023 ",Globo SP SD
+http://5ce.me:80/Josiiptv/Josi12/35761
+
+#EXTINF:-1,Record RIO HD
+http://5ce.me:80/Josiiptv/Josi12/35789
+
+
+
+#EXTM3U
+#EXTINF:-1,BBB 15
+http://5ce.me:80/Josiiptv/Josi12/217074
+#EXTINF:-1,BBB 14
+http://5ce.me:80/Josiiptv/Josi12/217073
+#EXTINF:-1,BBB 13
+http://5ce.me:80/Josiiptv/Josi12/217072
+#EXTINF:-1,BBB 12
+http://5ce.me:80/Josiiptv/Josi12/216956
+#EXTINF:-1,BBB 11
+http://5ce.me:80/Josiiptv/Josi12/216955
+#EXTINF:-1,BBB 10
+http://5ce.me:80/Josiiptv/Josi12/216954
+#EXTINF:-1,BBB 9
+http://5ce.me:80/Josiiptv/Josi12/216953
+#EXTINF:-1,BBB 8
+http://5ce.me:80/Josiiptv/Josi12/216952
+
+#EXTINF:-1,Record TV Cidade Ceara
+http://5ce.me:80/Josiiptv/Josi12/216929
+
+#EXTINF:-1,BBB 7
+http://5ce.me:80/Josiiptv/Josi12/212114
+#EXTINF:-1,BBB 6
+http://5ce.me:80/Josiiptv/Josi12/212113
+#EXTINF:-1,BBB 5
+http://5ce.me:80/Josiiptv/Josi12/212112
+#EXTINF:-1,BBB 4
+
+#EXTINF:-1,BBB 1
+http://5ce.me:80/Josiiptv/Josi12/205599
+#EXTINF:-1,BBB 2
+http://5ce.me:80/Josiiptv/Josi12/205597
+#EXTINF:-1,BBB 3
+http://5ce.me:80/Josiiptv/Josi12/205598
+
+
 
