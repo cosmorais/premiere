@@ -33,16 +33,18 @@ http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44288.m3u8
 ================================================================
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",GLOBO
+#EXTINF:-1 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",GLOBO
 http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.m3u8
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",record
+#EXTINF:-2 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",record
 http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.m3u8
 
 
 -------------------------------------BBBBBBB
 
 
+
+EXTINF
 
 #EXTINF:-1,BBB 23  QUARTO DESERTO
 http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
