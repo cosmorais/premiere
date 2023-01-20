@@ -7,10 +7,10 @@ http://canaishd.servidor.tv:8080/dani123/123dani/102693
 
 
 #EXTINF:-1,globo vai 17/02/2023
-http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
 #EXTINF:-1,record vai 17/02/2023
-http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/14175.ts
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/14175.m3u8
 
 #EXTINF:-1,BBB vai 17/02/2023
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44288.m3u8
@@ -22,11 +22,11 @@ http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44192.m3u8
 
 
 #EXTINF:-1,globo vai 22/03/2023
-http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44259.ts
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44259.m3u8
 
 
 #EXTINF:-1,record vai 22/03/2023
-http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/14175.ts
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/14175.m3u8
 
 
 
@@ -42,12 +42,12 @@ http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44288.m3u8
 
 
 #EXTINF:-1,globo vai 04/05/2023
-http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.ts
+http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.m3u8
 
 
 
 #EXTINF:-1,record vai 04/05/2023
-http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.ts
+http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.m3u8
 
 
 
