@@ -1,6 +1,6 @@
 #EXTINF: 0 tvg-logo = "http://ap.imagensbrasil.org/images/20..." group-title = "CANAIS RC", Rock Nacional
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 1 " group-title="17/02/2023 ",GLOBO
+#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 2 " group-title="17/02/2023 ",GLOBO
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
 
