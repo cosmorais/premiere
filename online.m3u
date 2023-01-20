@@ -1,23 +1,28 @@
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="expira 10 de maio" group-title="expira 10 de maio",Guia de Programação Esportes
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="Expires: 17/02/2023" group-title="Expires: 17/02/2023",Guia de Programação Esportes
 http://canaishd.servidor.tv:8080/dani123/123dani/102693
 
-#EXTINF:-1,Guia de Programação Esportes
-http://show.servidor.tv:8080/dani123/123dani/102693
 
 
-#EXTINF:-1,GLOBORJ
-http://server100.online/globo-rj-op2/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=b3a70a213f55113ba58793410cd12a182b6c9c7a-bedffb69c4f2ce85d8b2947512e36d4d-1674225988-1674218788
 
-#EXTINF:-1,RECORDRJ
-http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
+#EXTINF:-1,GLOBORJ 17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
-#EXTINF:-1,BBB 23  CASA 1
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
+#EXTINF:-1,RECORDRJ 17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/41297.m3u8
 
-#EXTINF:-1,BBB 23  CASA 2
-http://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=189.126.81.249&token=486c7b3454d7f1f37d36d687c802aca0dbdaa325-8fdd51c8de72d2e360b5f5bf271f1e91-1674227793-1674220593
+#EXTINF:-1,BBB 23  17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44288.m3u8
+
+#EXTINF:-1,BBB 23   17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44192
+
+
+
+
+
+
 
 
 #EXTINF:-1,BBB 23  QUARTO DESERTO
