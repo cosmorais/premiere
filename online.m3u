@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="Expires 03-28-2023" group-title="Globo RJ",Guia de Programação Esportes
-http://sv1.casaplay5g.win:8080/alfredo/102030/5047.m3u8
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="02-10-2023-" group-title="CCCC",Globo RJ
+http://sv1.casaplay5g.win:8080/Josimario/123456/5047.m3u8
 
 03-28
 
@@ -161,10 +161,6 @@ http://cloud-nany.cc:80/onofre10/10onofre/8136
 -------------------------------------------------------------------------------------llllllllll
 
 
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",MEGAPIX HD
-http://show.servidor.tv:8080/Leni123/123leni/1454
 
 
 
