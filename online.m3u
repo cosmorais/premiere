@@ -1,7 +1,9 @@
-#EXTINF: 0 tvg-logo = "http://ap.imagensbrasil.org/images/20..." group-title = "CANAIS RC", Rock Nacional
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 2 " group-title="17/02/2023 ",GLOBO
+#EXTINF: 0 tvg-logo = "http imagem do canal" group-title = "17/02/2023", globo
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
+
+
+
+
 
 
 #EXTINF:-1,record vai 17/02/2023
@@ -402,6 +404,8 @@ http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
 
 
 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name=" 2 " group-title="BBBB ",BBBBBB
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
 
 
