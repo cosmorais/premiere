@@ -108,11 +108,11 @@ http://cloud-nany.cc:80/onofre10/10onofre/8136
 http://show.servidor.tv:8080/Leni123/123leni/1490
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",AMC 
+#EXTINF:-5 ,AMC 
 http://show.servidor.tv:8080/Leni123/123leni/1498
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",SPACE
+#EXTINF:-5 ,SPACE
 http://show.servidor.tv:8080/Leni123/123leni/1445
 
 
@@ -122,25 +122,25 @@ http://canaishd.servidor.tv:8080/Leni123/123leni/1435
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",COMBATE - HD
+#EXTINF:-5 ,COMBATE - HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1489
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",PREMIERE CLUBES - HD
+#EXTINF:-5 ,PREMIERE CLUBES - HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/1447
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",CNN BRASIL
+#EXTINF:-5 ,CNN BRASIL
 http://canaishd.servidor.tv:8080/Leni123/123leni/21417
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",CNN BRASIL
+#EXTINF:-5 ,CNN BRASIL
 http://show.servidor.tv:8080/Leni123/123leni/21417
 
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="CCCC" group-title="CCCC",Band SP HD
+#EXTINF:-5 ,Band SP HD
 http://canaishd.servidor.tv:8080/Leni123/123leni/489
 
 #EXTINF:-1,A Fazenda 14 CAM 09 HD
